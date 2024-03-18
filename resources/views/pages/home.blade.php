@@ -7,7 +7,7 @@
       <div class="row">
         <div class="col-lg-7 mt-50">
           <h1 class="text-display-3 mt-30">
-            Propulseeez <span  class="color-green-900">vos activités</span> avec nos offres</h1>
+            Propulsez <span  class="color-green-900">vos activités</span> avec nos offres</h1>
           <p class="text-body-lead-large color-gray-500 mt-40 pr-40">Vous êtes une startup, une Entreprise, nous vous offrons des services de qualités, et adaptés à vos besoins.</p>
           <div class="mt-40"><a class="btn btn-black icon-arrow-right-white" href="page-service-1.html">Contactez-nous</a><a class="btn btn-link icon-arrow-right color-gray-900 text-heading-6" href="page-about-1.html">En savoir plus</a></div>
           <div class="mt-50">
