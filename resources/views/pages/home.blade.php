@@ -5,7 +5,7 @@
   <div class="banner-hero banner-2">
     <div class="container">
       <div class="row">
-        <div class="col-lg-7 mt-50"><span class="tag-1 bg-green-900">Digital Marketing Agency</span>
+        <div class="col-lg-7 mt-50">
           <h1 class="text-display-3 mt-30">
             Propulsez <span  class="color-green-900">vos activités</span> avec nos offres</h1>
           <p class="text-body-lead-large color-gray-500 mt-40 pr-40">Vous êtes une startup, une Entreprise, nous vous offrons des services de qualités, et adaptés à vos besoins.</p>
@@ -58,23 +58,20 @@
         <div class="line-bd-green mt-50"></div>
         <div class="row">
           <div class="col-lg-6 col-sm-6 col-12 mt-50">
-            <h4 class="text-heading-6 icon-leaf">Automated reports</h4>
-            <p class="text-body-excerpt color-gray-600 mt-15"> Nous sommes une équipe dynamique dont le seul but est de rehausser le niveau d’implication du numérique dans le quotidien de chaque citoyen et ainsi leur permettre d’y avoir accès avec plus de facilité.
-            </p>
+            <h4 class="text-heading-6 icon-leaf">Notre Engagement</h4>
+            <p class="text-body-excerpt color-gray-600 mt-15"> Notre équipe dynamique s'engage à rendre le numérique plus accessible à tous, enrichissant ainsi le quotidien de chaque citoyen.</p>
           </div>
           <div class="col-lg-6 col-sm-6 col-12 mt-50">
-            <h4 class="text-heading-6 icon-leaf">Realtime analytics</h4>
-            <p class="text-body-excerpt color-gray-600 mt-15">Sachant qu’un client satisfait en vaux plusieurs autres, nous nous engageons à répondre favorablement à vos préoccupations à travers nos prestations de qualité.
-            </p>
+            <h4 class="text-heading-6 icon-leaf">Notre Priorité</h4>
+            <p class="text-body-excerpt color-gray-600 mt-15">Votre satisfaction est notre priorité. Nous nous engageons à répondre à vos besoins avec des prestations de qualité.
           </div>
           <div class="col-lg-6 col-sm-6 col-12 mt-50">
-            <h4 class="text-heading-6 icon-leaf">Funnel optimization</h4>
-            <p class="text-body-excerpt color-gray-600 mt-15">Toujours dans le souci de trouver des solutions adéquates à tous vos problèmes nous ne cessons d’innover afin de vous permettre de bénéficier de nos services qui associent à la fois coût et qualité.
-            </p>
+            <h4 class="text-heading-6 icon-leaf">Qualité et Compétitivité</h4>
+            <p class="text-body-excerpt color-gray-600 mt-15">Nous innovons constamment pour offrir des solutions adaptées à vos besoins, alliant qualité et coût compétitif. </p>
           </div>
           <div class="col-lg-6 col-sm-6 col-12 mt-50">
-            <h4 class="text-heading-6 icon-leaf">User journey</h4>
-            <p class="text-body-excerpt color-gray-600 mt-15">Que vous soyez particulier ou société nous serons ravis de vous compter parmi nos preneurs.
+            <h4 class="text-heading-6 icon-leaf">Disponibilité Sans Faille</h4>
+            <p class="text-body-excerpt color-gray-600 mt-15">Nous sommes disponibles 24h/24, 7j/7 pour répondre à vos besoins professionnels.
             </p>
           </div>
         </div>
@@ -92,8 +89,8 @@
     <div class="row">
       <div class="col-lg-2 col-sm-1 col-12"></div>
       <div class="col-lg-8 col-sm-10 col-12 text-center mt-70">
-        <h2 class="text-heading-1 color-gray-900">See why we are trusted<br class="d-lg-block d-none"> the world over</h2>
-        <p class="text-body-lead-large color-gray-600 mt-20">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum &mdash; semper quis lectus nulla...</p>
+        <h2 class="text-heading-1 color-gray-900">Nos offres de services</h2>
+        <p class="text-body-lead-large color-gray-600 mt-20">Nous offrons un service ininterrompu, disponible à tout moment pour répondre à vos besoins, quel que soit le jour ou l'heure.&mdash;  Nous sommes là pour vous...</p>
       </div>
       <div class="col-lg-2 col-sm-1 col-12"></div>
     </div>
