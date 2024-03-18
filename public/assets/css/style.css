@@ -1001,7 +1001,7 @@ h6 {
 
 .btn {
   font-family: "Chivo", sans-serif;
-  padding: 22px 32px;
+  padding: 14px;
   font-size: 18px;
   line-height: 22px;
   transition: 0.2s;
@@ -1063,14 +1063,14 @@ h6 {
   border: 2px solid transparent;
 }
 .btn.btn-bd-green-hover:hover {
-  color: #006D77 !important;
+  color: #cf171e !important;
   background-color: #ffffff !important;
-  border: 2px solid #006D77;
+  border: 2px solid #cf171e;
 }
 .btn.active {
-  color: #006D77 !important;
+  color: #cf171e !important;
   background-color: #ffffff !important;
-  border: 2px solid #006D77;
+  border: 2px solid #cf171e;
 }
 .btn.btn-select {
   margin-left: 10px;
@@ -1098,7 +1098,7 @@ h6 {
   color: #ffffff;
   background-color: #101828;
   border-radius: 50px;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 22px;
   font-family: "Noto Sans", sans-serif;
   font-weight: bold;
@@ -1245,6 +1245,10 @@ h6 {
   font-size: 16px;
   line-height: 24px;
 }
+.service-btn .btn {
+  font-size: 15px !important;
+  padding: 10px 16px !important;
+}
 .btn.btn-cart:hover {
   background-color: #83C5BE;
 }
@@ -1293,8 +1297,8 @@ h6 {
 .icon-arrow-right-white {
   background-image: url(../imgs/template/icons/arrow-small-right-w.svg);
   background-repeat: no-repeat;
-  background-position: center right 25px;
-  padding-right: 56px;
+  background-position: center right 20px;
+  padding-right: 40px;
 }
 
 .icon-triangle {
@@ -3087,7 +3091,7 @@ label {
   vertical-align: middle;
 }
 .banner-hero.banner-2 {
-  background-color: #BEE1E6;
+  background-color: #fFF3EA;
 }
 .banner-hero.banner-2 .container {
   position: relative;
@@ -3289,9 +3293,34 @@ label {
   background-size: auto;
 }
 .banner-hero.banner-breadcrums {
-  background-color: #FFF3EA;
-  padding: 48px 0px;
+  background-image: url(../imgs/page/login/img-1.png);
+  min-height: 500px;
+  text-align: center;
+  position: relative;
+  padding: 100px 0;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
+.banner-hero.banner-breadcrums h1, .banner-hero.banner-breadcrums p{
+  color: #fff;
+  position: relative;
+  max-width: 62.5rem;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.banner-hero.banner-breadcrums:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(11,25,56,0),rgba(11,25,56,.75));
+  }
 .banner-hero.banner-head-image {
   background-size: cover !important;
   background-repeat: top center !important;
@@ -3420,7 +3449,6 @@ label {
 }
 
 .header {
-  padding: 10px 0;
   float: left;
   width: 100%;
   position: relative;
@@ -3476,6 +3504,21 @@ label {
   opacity: 1;
   margin-left: 4px;
 }
+.sub-sub-menu  {
+  position: relative;
+}
+.sub-sub-menu::after {
+  content: "\f151";
+  font-family: uicons-regular-rounded !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1 !important;
+  font-size: 14px;
+  opacity: 1;
+  margin-left: 4px;
+}
 .header .main-menu li.hr {
   padding: 0px 22px;
 }
@@ -3498,7 +3541,7 @@ label {
   position: relative;
 }
 .header .main-menu li a:hover {
-  color: #006D77;
+  color: #cf171e;
 }
 .header .main-menu li a:hover i {
   opacity: 1;
@@ -3518,7 +3561,7 @@ label {
   top: 100%;
   left: 0px;
   z-index: 999;
-  min-width: 180px;
+  min-width: 250px;
   border-radius: 4px;
   padding: 8px 0px 8px 0;
   box-shadow: 4px 4px 40px rgba(16, 24, 40, 0.1);
@@ -3531,7 +3574,7 @@ label {
   font-size: 14px;
   color: #101828;
   position: relative;
-  padding: 10px 22px 10px 22px;
+  padding: 5px 10px 5px 18px;
   transition: 0.2s;
 }
 .header .main-menu li ul li a:hover {

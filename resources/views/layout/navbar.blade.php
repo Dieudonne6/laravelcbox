@@ -12,11 +12,27 @@
               </li>
               <li class="has-children"><a href="#">Services</a>
                 <ul class="sub-menu">
-                  <li><a href="page-contact.html">Contact</a></li>
-                  <li><a href="page-signup.html">Sign Up</a></li>
-                  <li><a href="page-login.html">Log In</a></li>
-                  <li><a href="page-reset.html">Reset Password</a></li>
-                  <li><a href="404.html">Error 404</a></li>
+                  <li><a href="page-contact.html">Audit, Conseil & Assistance Informatique</a></li>
+                  <li><a href="page-signup.html">Développement Mobile</a></li>
+                  <li><a href="page-login.html">Administration Système & Réseau</a></li>
+                  <li><a href="page-reset.html">Maintenance Informatique</a></li>
+                  <li>
+                    <a href="404.html" class="sub-sub-menu">Développement Web</a>
+                    <ul class="sub-menu">
+                      <li><a href="page-reset.html">Application Web</a></li>
+                      <li><a href="page-reset.html">Site Web</a></li>
+                      <li><a href="page-reset.html">SEO & Référencement</a></li>
+                    </ul>
+                  </li>
+
+                  <li><a href="404.html">Design & Graphisme</a></li>
+
+                  <li><a href="404.html">Energie Renouvelable</a></li>
+                  <li><a href="404.html">Vidéosurveillance</a></li>
+                  <li><a href="404.html">Contrôle d’Accès & de Présence</a></li>
+                  <li><a href="404.html">Commerce</a></li>
+
+                  <li><a href="404.html">Energie Renouvelable</a></li>
                 </ul>
               </li>
               <li><a href="{{url('/formations')}}">Formations</a>
@@ -30,9 +46,7 @@
               </li>
             </ul>
           </nav>
-          <div> <a class="btn btn-black icon-arrow-right-white" href="page-service-1.html">Contactez-nous</a></div>
-
-          <div class="burger-icon burger-icon-white" style="display: none;"><span class="burger-icon-top"></span><span class="burger-icon-mid"></span><span class="burger-icon-bottom"></span></div>
+          <div class="burger-icon burger-icon-white"><span class="burger-icon-top"></span><span class="burger-icon-mid"></span><span class="burger-icon-bottom"></span></div>
         </div>
       </div>
       <div class="header-right">
