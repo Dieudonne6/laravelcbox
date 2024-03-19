@@ -160,8 +160,16 @@ body {
   line-height: 1;
 }
 
+.listeul{
+  text-align: left;
+  list-style-position: inside;
+  list-style-type: disc;
+  font-size: 1.1rem;
+}
+
 ol,
-ul {
+ul
+ {
   list-style: none;
 }
 
@@ -381,6 +389,8 @@ a {
   line-height: 26px;
 }
 
+
+
 .text-body-text {
   font-family: "Noto Sans", sans-serif;
   font-weight: 400 !important;
@@ -423,6 +433,8 @@ a {
   font-size: 10px;
   line-height: 14px;
 }
+
+
 
 .text-body-lead-large {
   font-family: "Noto Sans", sans-serif;
@@ -477,6 +489,8 @@ a {
   line-height: 66px;
   letter-spacing: 0%;
 }
+
+
 
 .text-heading-1 {
   font-family: "Chivo", sans-serif;
@@ -666,6 +680,8 @@ a {
 a:hover {
   color: #83C5BE;
 }
+
+
 
 .section-box {
   display: inline-block;
@@ -6138,7 +6154,7 @@ label {
   position: relative;
   padding: 0px 0px 40px 80px;
   margin-bottom: 40px;
-  border-bottom: 2px solid #E4E7EC;
+  border-bottom: 2px solid #fad5c2;
 }
 .list-icons .item-icon.none-bd {
   border-bottom: 0px;
@@ -7023,6 +7039,7 @@ label {
   height: 50px;
   overflow: hidden;
 }
+
 
 .text-inter-lg {
   font-family: "Chivo", sans-serif;
@@ -9164,3 +9181,38 @@ input.qty-val {
   }
 }
 /*# sourceMappingURL=style.css.map */
+
+
+
+
+
+/* style additionnel about */
+
+.soustitleabout{
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.titleabout{
+  font-family: "Chivo", sans-serif;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 45px;
+  letter-spacing: -1%;
+  color: #cf171e;
+}
+
+.sectiondecouverte{
+  background: #fad5c2;
+}
+
+.textesec1about, 
+.descriptionservice{
+  text-align: justify;
+}
+
+/* .descriptionservice{
+  text-align: justify;
+} */
