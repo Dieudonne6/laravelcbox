@@ -33,8 +33,8 @@
         <div class="col-lg-5 d-none d-lg-block">
           <div class="banner-imgs">
             <div class="block-1 shape-2"><img src="assets/imgs/template/homecbox1.jpg" alt="Agon"></div>
-            <div class="block-2 shape-3"><img src="assets/imgs/page/homepage2/payment.png" alt="Agon"></div>
-            <img class="img-responsive shape-1" alt="Agon" src="assets/imgs/page/homepage2/banner.png">
+            <div class="block-2 shape-3"><img src="assets/imgs/template/IMG-20210914-WA0015.jpg" alt="Agon"></div>
+            <img class="img-responsive shape-1" alt="Agon" src="assets/imgs/template/banner.png">
           </div>
         </div>
       </div>
@@ -48,8 +48,8 @@
       <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="Agon" src="assets/imgs/template/BE.jpg"></a></div>
       <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="Agon" src="assets/imgs/template/TCC.png"></a></div>
       <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="Agon" src="assets/imgs/template/anssi.png"></a></div>
-      <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="Agon" src="assets/imgs/slider/logo/sample-logo-5.svg"></a></div>
-      <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="Agon" src="assets/imgs/slider/logo/sample-logo-6.svg"></a></div>
+      <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="Agon" src="assets/imgs/template/ipeb.png"></a></div>
+      <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="Agon" src="assets/imgs/template/pharmacielabeninoie.png"></a></div>
     </div>
   </div>
 </div>
@@ -81,8 +81,11 @@
         </div>
       </div>
       <div class="col-lg-6 col-sm-12 block-we-do">
-        <div class="inner-image"><img class="bdrd-16 img-responsive" src="assets/imgs/page/homepage2/img-built.png" alt="Agon">
-          <div class="block-image-bottom"><img class="bdrd-16 img-responsive" src="assets/imgs/page/homepage2/img-built-2.png" alt="Agon"></div>
+        <div class="inner-image">
+          <img class="bdrd-16 img-responsive" src="assets/imgs/template/IMG-20210126-WA0124.jpg" alt="Agon">
+          <div class="block-image-bottom">
+            <img class="bdrd-16 img-responsive" src="assets/imgs/template/gif.gif" alt="Agon">
+          </div>
         </div>
       </div>
     </div>
@@ -133,7 +136,7 @@
             </div>
             <div class="col-lg-6 col-md-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/page/homepage1/img-1.png" alt="Agon"></div>
+                <img class="img-responsive" src="assets/imgs/template/IMG_20211011_160539_351-scaled.jpg" alt="Agon"></div>
             </div>
           </div>
         </div>
@@ -152,7 +155,7 @@
             </div>
             <div class="col-lg-6 col-sm-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/page/homepage1/img-1-2.jpg" alt="Agon"></div>
+                <img class="img-responsive" src="assets/imgs/template/IMG-20210914-WA0002-1.jpg" alt="Agon"></div>
             </div>
           </div>
         </div>
