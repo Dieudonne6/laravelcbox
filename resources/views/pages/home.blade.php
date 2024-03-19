@@ -33,7 +33,6 @@
         <div class="col-lg-5 d-none d-lg-block">
           <div class="banner-imgs">
             <div class="block-1 shape-2"><img src="assets/imgs/template/homecbox1.jpg" alt="Agon"></div>
-            <div class="block-2 shape-3"><img src="assets/imgs/template/IMG-20210914-WA0015.jpg" alt="Agon"></div>
             <img class="img-responsive shape-1" alt="Agon" src="assets/imgs/template/banner.png">
           </div>
         </div>

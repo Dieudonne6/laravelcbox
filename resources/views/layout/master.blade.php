@@ -50,7 +50,8 @@
                     </div>
                   </div>
                   <div class="col-lg-7 col-md-5 mt-30 mt-lg-0 mt-md-30 mt-sm-30 position-relative text-end">
-                    <div class="block-chart shape-1"><img src="assets/imgs/template/chart.png" alt="Agon"></div><img class="img-responsive img-newsletter" src="assets/imgs/template/img-newsletter.png" alt="Agon">
+                    <div class="block-chart shape-1"><img src="assets/imgs/template/IMG-20210914-WA0015.jpg" alt="Agon"></div>
+                    <img class="img-responsive img-newsletter" src="assets/imgs/template/img-newsletter.png" alt="Agon">
                   </div>
                 </div>
               </div>
