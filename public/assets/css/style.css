@@ -1686,6 +1686,11 @@ label {
 .box-swiper .swiper-container .item-logo img {
   max-width: 100%;
 }
+.partner .item-logo img {
+  width: auto;
+  height: auto;
+  max-height: 3.31rem;
+}
 .box-swiper .swiper-container .item-logo:hover {
   border: 1px solid #1D2939;
   box-shadow: 0px 47px 65px rgba(21, 28, 38, 0.1);

@@ -4,7 +4,7 @@
     <div class="footer-top">
       <div class="row">
         <div class="col-md-4 col-sm-6 text-center text-md-start"><a href="index.html"><img alt="Agon" src="assets/imgs/template/cbox.png"></a></div>
-        <div class="col-md-8 col-sm-6 text-center text-md-end"><span class="color-gray-900 text-heading-6 mr-30 text-mb-sm-20">Ready to get started?</span><a class="btn btn-square" href="page-signup.html">Create an Account</a></div>
+        <div class="col-md-8 col-sm-6 text-center text-md-end"><span class="color-gray-900 text-heading-6 mr-30 text-mb-sm-20">Prêt à commencer?</span><a class="btn btn-square" href="{{url('/contact')}}">Contactez-nous</a></div>
       </div>
     </div>
     <div class="row">
