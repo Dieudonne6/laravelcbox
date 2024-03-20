@@ -64,7 +64,7 @@
                 </div>
                 <div class="col-lg-6 col-sm-12 col-12 block-pl">
                     {{-- <h2 class="text-heading-1 color-white mb-30 mt-20">Our game-changing approach to working together</h2> --}}
-                    <p class="textesec1about text-inter-lg"><strong>La société CBOX Sarl</strong> est une société à
+                    <p class="textesec1about text-inter-lg"><strong>La société C BOX Sarl</strong> est une société à
                         responsabilité limitée créé le 23
                         Juillet 2021 et officiellement enregistrée à Cotonou sous le numéro IFU : 3202113085279 en Avril
                         2022.
@@ -72,7 +72,7 @@
                         {{-- Cette entreprise a vu le jour grâce à l’ingéniosité de son jeune Président Directeur Générale qui a
                         voulu mettre sa polyvalence au service d’une large cible. --}}
                         En effet, à l’issue d’un profond diagnostic des besoins du marché dans les domaines de
-                        l’informatique, de la télécommunication, des nouvelles technologies en général, CBOX Sarl
+                        l’informatique, de la télécommunication, des nouvelles technologies en général, C BOX Sarl
                         a été créé pour proposer des solutions variées à moindre coût, aussi bien aux personnes physiques
                         que morales.Elle offre egalement des formations professionnelles de qualité en adéquation avec les
                         exigences du marché.<br><br>
