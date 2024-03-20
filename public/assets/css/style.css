@@ -329,7 +329,10 @@ input[type=number]:focus,
   outline: none !important;
   box-shadow: none;
 }
-
+.baner-header {
+  border-radius: 10px;
+  height: 34rem;
+}
 .border-radius {
   border-radius: 4px;
 }
