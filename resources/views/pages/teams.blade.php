@@ -1,5 +1,6 @@
 @extends('layout.master')
 @section('content')
+
 <section class="section-box">
   <div class="banner-hero banner-breadcrums">
     <div class="container text-center">
@@ -8,14 +9,20 @@
     </div>
   </div>
 </section>
+
 <section class="section-box">
-  <div class="container mt-110">
+
+  <div class="container mt-11">
     <div class="row">
-      <div class="col-lg-100 col-sm-99" style="text-justify">
-        <h3 class="text-heading-1 mb-10">Notre Equipe</h3>
-        <p class="text-body-lead-large color-gray-600">Votre réussite, en tant que client ou partenaire, est aussi la nôtre; car à CBOX Sarl nous pensons que la réussite doit toujours être collective. Prenez contact avec nous dès aujourd’hui pour vos projets en développement logiciel, site internet et tout autre besoin situé dans nos domaines d’activité.</p>      </div>
+      <div class="col-lg-2 col-sm-1 col-12"></div>
+      <div class="col-lg-8 col-sm-10 col-12 text-center mt-100">
+        <h2 class="titleabout color-gray-700">Notre Equipe</h2>
+        <p class="soustitleabout color-gray-600 mt-20">Votre réussite, en tant que client ou partenaire, est aussi la nôtre; car à C BOX Sarl nous pensons que la réussite doit toujours être collective. 
+          Prenez contact avec nous dès aujourd’hui pour vos projets en développement logiciel, site internet et tout autre besoin situé dans nos domaines d’activité.</p>
+      </div>
     </div>
   </div>
+
   <div class="container mt-80">
     <div class="row">
       <div class="col-lg-3 col-md-6 col-sm-6">
@@ -25,6 +32,7 @@
           <div class="social-bottom"><a class="icon-socials icon-facebook" href="#"></a><a class="icon-socials icon-twitter" href="#"></a><a class="icon-socials icon-instagram" href="#"></a><a class="icon-socials icon-linkedin" href="#"></a></div>
         </div>
       </div>
+
       <div class="col-lg-3 col-md-6 col-sm-6">
         <div class="card-grid-style-5 hover-up">
           <div class="grid-5-img mb-15"><img src="assets/imgs/page/about/1/team-3.png" alt="Agon"></div><span class="text-body-text-md color-gray-500">Technicien</span>
@@ -32,20 +40,47 @@
           <div class="social-bottom"><a class="icon-socials icon-facebook" href="#"></a><a class="icon-socials icon-twitter" href="#"></a><a class="icon-socials icon-instagram" href="#"></a><a class="icon-socials icon-linkedin" href="#"></a></div>
         </div>
       </div>
+
       <div class="col-lg-3 col-md-6 col-sm-6">
         <div class="card-grid-style-5 hover-up">
-          <div class="grid-5-img mb-15"><img src="assets/imgs/page/about/1/team-4.png" alt="Agon"></div><span class="text-body-text-md color-gray-500">Developpeur</span>
+          <div class="grid-5-img mb-15"><img src="assets/imgs/page/about/1/team-4.png" alt="Agon"></div><span class="text-body-text-md color-gray-500">Technicien</span>
+          <h3 class="text-heading-5 mb-5 mt-5">Donnée</h3>
+          <div class="social-bottom"><a class="icon-socials icon-facebook" href="#"></a><a class="icon-socials icon-twitter" href="#"></a><a class="icon-socials icon-instagram" href="#"></a><a class="icon-socials icon-linkedin" href="#"></a></div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 col-sm-6">
+        <div class="card-grid-style-5 hover-up">
+          <div class="grid-5-img mb-15"><img src="assets/imgs/page/about/1/team-5.png" alt="Agon"></div><span class="text-body-text-md color-gray-500">Developpeur</span>
           <h3 class="text-heading-5 mb-5 mt-5">ADOGONI Ulrich</h3>
           <div class="social-bottom"><a class="icon-socials icon-facebook" href="#"></a><a class="icon-socials icon-twitter" href="#"></a><a class="icon-socials icon-instagram" href="#"></a><a class="icon-socials icon-linkedin" href="#"></a></div>
         </div>
       </div>
+
       <div class="col-lg-3 col-md-6 col-sm-6">
         <div class="card-grid-style-5 hover-up">
-          <div class="grid-5-img mb-15"><img src="assets/imgs/page/about/1/team-5.png" alt="Agon"></div><span class="text-body-text-md color-gray-500">Developpeur</span>
+          <div class="grid-5-img mb-15"><img src="assets/imgs/page/about/1/team-6.png" alt="Agon"></div><span class="text-body-text-md color-gray-500">Developpeur</span>
+          <h3 class="text-heading-5 mb-5 mt-5">LOGOSSOU Cédrych</h3>
+          <div class="social-bottom"><a class="icon-socials icon-facebook" href="#"></a><a class="icon-socials icon-twitter" href="#"></a><a class="icon-socials icon-instagram" href="#"></a><a class="icon-socials icon-linkedin" href="#"></a></div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 col-sm-6">
+        <div class="card-grid-style-5 hover-up">
+          <div class="grid-5-img mb-15"><img src="assets/imgs/page/about/1/team-7.png" alt="Agon"></div><span class="text-body-text-md color-gray-500">Developpeur</span>
           <h3 class="text-heading-5 mb-5 mt-5">Theresa Webb</h3>
           <div class="social-bottom"><a class="icon-socials icon-facebook" href="#"></a><a class="icon-socials icon-twitter" href="#"></a><a class="icon-socials icon-instagram" href="#"></a><a class="icon-socials icon-linkedin" href="#"></a></div>
         </div>
       </div>
+
+      <div class="col-lg-3 col-md-6 col-sm-6">
+        <div class="card-grid-style-5 hover-up">
+          <div class="grid-5-img mb-15"><img src="assets/imgs/page/about/1/team-8.png" alt="Agon"></div><span class="text-body-text-md color-gray-500">Developpeur</span>
+          <h3 class="text-heading-5 mb-5 mt-5">Theresa Webb</h3>
+          <div class="social-bottom"><a class="icon-socials icon-facebook" href="#"></a><a class="icon-socials icon-twitter" href="#"></a><a class="icon-socials icon-instagram" href="#"></a><a class="icon-socials icon-linkedin" href="#"></a></div>
+        </div>
+      </div>
+
     </div>
   </div>
 </section>

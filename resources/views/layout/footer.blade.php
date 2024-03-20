@@ -61,7 +61,7 @@
     <div class="footer-bottom mt-20">
       <div class="row">
         <div class="col-md-6">
-          <span class="color-gray-400 text-body-lead">&copy; Cbox Sarl 2024</span>
+          <span class="color-gray-400 text-body-lead">&copy; C box Sarl 2024</span>
           
         </div>
         <div class="col-md-6 text-center text-lg-end text-md-end">
