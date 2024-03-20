@@ -17,7 +17,7 @@
       <div class="col-lg-2 col-sm-1 col-12"></div>
       <div class="col-lg-8 col-sm-10 col-12 text-center mt-100">
         <h2 class="titleabout color-gray-700">Notre Equipe</h2>
-        <p class="soustitleabout color-gray-600 mt-20">Votre réussite, en tant que client ou partenaire, est aussi la nôtre; car à CBOX Sarl nous pensons que la réussite doit toujours être collective. 
+        <p class="soustitleabout color-gray-600 mt-20">Votre réussite, en tant que client ou partenaire, est aussi la nôtre; car à C BOX Sarl nous pensons que la réussite doit toujours être collective. 
           Prenez contact avec nous dès aujourd’hui pour vos projets en développement logiciel, site internet et tout autre besoin situé dans nos domaines d’activité.</p>
       </div>
     </div>
