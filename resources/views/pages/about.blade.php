@@ -14,7 +14,7 @@
             <div class="row">
                 <div class="col-lg-2 col-sm-1 col-12"></div>
                 <div class="col-lg-8 col-sm-10 col-12 text-center mt-100">
-                    <h2 class="titleabout color-gray-700">Découvrez CBOX Sarl</h2>
+                    <h2 class="titleabout color-gray-700">Découvrez C BOX Sarl</h2>
                     <p class="soustitleabout color-gray-600 mt-20">Nous nous engageons à fournir des services de qualité<br>
                         supérieure et une expertise inégalée à nos clients.</p>
                 </div>
@@ -72,7 +72,7 @@
                         {{-- Cette entreprise a vu le jour grâce à l’ingéniosité de son jeune Président Directeur Générale qui a
                         voulu mettre sa polyvalence au service d’une large cible. --}}
                         En effet, à l’issue d’un profond diagnostic des besoins du marché dans les domaines de
-                        l’informatique, de la télécommunication, des nouvelles technologies en général, C BOX Sarl
+                        l’informatique, des nouvelles technologies en général, C BOX Sarl
                         a été créé pour proposer des solutions variées à moindre coût, aussi bien aux personnes physiques
                         que morales.Elle offre egalement des formations professionnelles de qualité en adéquation avec les
                         exigences du marché.<br><br>

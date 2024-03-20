@@ -2,7 +2,7 @@
   <div class="container">
     <div class="main-header">
       <div class="header-left">
-        <div class="header-logo"><a class="d-flex" href="{{url('/')}}"><img alt="Agon" src="assets/imgs/template/cbox.png"></a></div>
+        <div class="header-logo mb-5"><a class="d-flex" href="{{url('/')}}"><img alt="Agon" src="assets/imgs/template/cbox.png"></a></div>
         <div class="header-nav">
           <nav class="nav-main-menu d-none d-xl-block">
             <ul class="main-menu">
@@ -46,7 +46,7 @@
               </li>
             </ul>
           </nav>
-          <div class="burger-icon burger-icon-white"><span class="burger-icon-top"></span><span class="burger-icon-mid"></span><span class="burger-icon-bottom"></span></div>
+          <div class="burger-icon burger-icon-white "><span class="burger-icon-top"></span><span class="burger-icon-mid"></span><span class="burger-icon-bottom"></span></div>
         </div>
       </div>
       <div class="header-right">
