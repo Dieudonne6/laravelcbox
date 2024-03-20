@@ -30,10 +30,10 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-5 d-none d-lg-block">
+        <div class="col-lg-4 offset-1 d-none d-lg-block">
           <div class="banner-imgs">
             <div class="block-1 shape-2"><img src="assets/imgs/template/homecbox1.jpg" alt="C BOX Sarl"></div>
-            <img class="img-responsive shape-1" alt="C BOX Sarl" src="assets/imgs/template/banner.png">
+            <img class="img-responsive shape-1 baner-header" alt="C BOX Sarl" src="assets/imgs/template/IMG_20211011_160442_284-min-scaled.jpg">
           </div>
         </div>
       </div>
@@ -45,7 +45,6 @@
     <div class="row justify-content-md-center">
       <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="C BOX Sarl" src="assets/imgs/template/ABERME.png"></a></div>
       <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="C BOX Sarl" src="assets/imgs/template/BE.jpg"></a></div>
-      <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="C BOX Sarl" src="assets/imgs/template/gbegamey.jpg"></a></div>
       <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="C BOX Sarl" src="assets/imgs/template/anssi.png"></a></div>
     </div>
   </div>
@@ -246,7 +245,7 @@
             </div>
             <div class="col-lg-6 col-sm-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/page/homepage1/img-1-6.jpg" alt="C BOX Sarl"></div>
+                <img class="img-responsive" src="assets/imgs/template/IMG-20210914-WA0029.jpg" alt="C BOX Sarl"></div>
             </div>
           </div>
         </div>
@@ -263,7 +262,7 @@
             </div>
             <div class="col-lg-6 col-sm-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/page/homepage1/img-1-6.jpg" alt="C BOX Sarl"></div>
+                <img class="img-responsive" src="assets/imgs/template/IMG-20210914-WA0031.jpg" alt="C BOX Sarl"></div>
             </div>
           </div>
         </div>
