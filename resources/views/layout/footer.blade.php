@@ -3,30 +3,30 @@
   <div class="container">
     <div class="footer-top">
       <div class="row">
-        <div class="col-md-4 col-sm-6 text-center text-md-start"><a href="index.html"><img alt="Agon" src="assets/imgs/template/cbox.png"></a></div>
-        <div class="col-md-8 col-sm-6 text-center text-md-end"><span class="color-gray-900 text-heading-6 mr-30 text-mb-sm-20">Ready to get started?</span><a class="btn btn-square" href="page-signup.html">Create an Account</a></div>
+        <div class="col-md-4 col-sm-6 text-center text-md-start"><a href="{{url('/')}}"><img alt="Agon" src="assets/imgs/template/cbox.png"></a></div>
+        <div class="col-md-8 col-sm-6 text-center text-md-end"><span class="color-gray-900 text-heading-6 mr-30 text-mb-sm-20">Prêt à commencer?</span><a class="btn btn-square" href="{{url('/contact')}}">Contactez-nous</a></div>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-3 width-20 mb-30">
         <h4 class="text-heading-5">Contact</h4>
-        <div class="mt-20 text-body-text color-gray-600 mb-20">4517 Washington Ave. Manchester, Kentucky 39495</div>
-        <div class="mt-20 text-body-text color-gray-600">(239) 555-0108</div>
-        <div class="text-body-text color-gray-600">contact@agon.com</div>
+        <div class="mt-20 text-body-text color-gray-600 mb-20">IIot 903 “F” St jean Ggèdiga district, Cotonou, Benin</div>
+        <div class="mt-20 text-body-text color-gray-600">+22921603179 </div>
+        <div class="mt-20 text-body-text color-gray-600">+22997791717</div>
+
+        <div class="text-body-text color-gray-600">contact@cbox.bj</div>
       </div>
       <div class="col-lg-3 width-20 mb-30">
-        <h4 class="text-heading-5">About Us</h4>
+        <h4 class="text-heading-5">A Propos</h4>
         <ul class="menu-footer mt-20">
-          <li><a href="#">Mission &amp; Vision</a></li>
-          <li><a href="#">Our Team</a></li>
-          <li><a href="page-career.html">Careers</a></li>
-          <li><a href="#">Press &amp; Media</a></li>
-          <li><a href="#">Advertising</a></li>
-          <li><a href="#">Testimonials</a></li>
+          <li><a href="{{url('/formation')}}">Formation</a></li>
+          <li><a href="{{url('/team')}}">Equipe</a></li>
+          <li><a href="{{url('/about')}}">A propos</a></li>
+          <li><a href="{{url('/contact')}}">Contactez-nous</a></li>
         </ul>
       </div>
       <div class="col-lg-3 width-20 mb-30">
-        <h4 class="text-heading-5">Discover</h4>
+        <h4 class="text-heading-5">Nos services</h4>
         <ul class="menu-footer mt-20">
           <li><a href="blog-2.html">Our Blog</a></li>
           <li><a href="page-pricing-1.html">Plans &amp; Pricing</a></li>
@@ -60,7 +60,10 @@
     </div>
     <div class="footer-bottom mt-20">
       <div class="row">
-        <div class="col-md-6"><span class="color-gray-400 text-body-lead">&copy; Agon Official 2022</span><a class="text-body-text color-gray-400 ml-50" href="page-terms.html">Privacy policy</a><a class="text-body-text color-gray-400 ml-50" href="page-terms.html">Cookies</a><a class="text-body-text color-gray-400 ml-50" href="page-terms.html">Terms of service</a></div>
+        <div class="col-md-6">
+          <span class="color-gray-400 text-body-lead">&copy; Cbox Sarl 2024</span>
+          
+        </div>
         <div class="col-md-6 text-center text-lg-end text-md-end">
           <div class="footer-social"><a class="icon-socials icon-facebook" href="https://facebook.com" target="_blank"></a><a class="icon-socials icon-twitter" href="https://twitter.com" target="_blank"></a><a class="icon-socials icon-instagram" href="https://www.instagram.com" target="_blank"></a><a class="icon-socials icon-linkedin" href="https://www.linkedin.com" target="_blank"></a></div>
         </div>
