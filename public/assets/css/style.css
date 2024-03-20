@@ -160,8 +160,16 @@ body {
   line-height: 1;
 }
 
+.listeul{
+  text-align: left;
+  list-style-position: inside;
+  list-style-type: disc;
+  font-size: 1.1rem;
+}
+
 ol,
-ul {
+ul
+ {
   list-style: none;
 }
 
@@ -321,7 +329,10 @@ input[type=number]:focus,
   outline: none !important;
   box-shadow: none;
 }
-
+.baner-header {
+  border-radius: 10px;
+  height: 34rem;
+}
 .border-radius {
   border-radius: 4px;
 }
@@ -381,6 +392,8 @@ a {
   line-height: 26px;
 }
 
+
+
 .text-body-text {
   font-family: "Noto Sans", sans-serif;
   font-weight: 400 !important;
@@ -423,6 +436,8 @@ a {
   font-size: 10px;
   line-height: 14px;
 }
+
+
 
 .text-body-lead-large {
   font-family: "Noto Sans", sans-serif;
@@ -477,6 +492,8 @@ a {
   line-height: 66px;
   letter-spacing: 0%;
 }
+
+
 
 .text-heading-1 {
   font-family: "Chivo", sans-serif;
@@ -666,6 +683,8 @@ a {
 a:hover {
   color: #83C5BE;
 }
+
+
 
 .section-box {
   display: inline-block;
@@ -1685,6 +1704,11 @@ label {
 }
 .box-swiper .swiper-container .item-logo img {
   max-width: 100%;
+}
+.partner .item-logo img {
+  width: auto;
+  height: auto;
+  max-height: 3.31rem;
 }
 .box-swiper .swiper-container .item-logo:hover {
   border: 1px solid #1D2939;
@@ -3153,7 +3177,7 @@ label {
   z-index: 5;
 }
 .banner-hero.bg-about-1 {
-  background: url(../imgs/page/about/1/bg-about-1.png) no-repeat bottom left;
+  background: url(../imgs/page/about/1/IMG_20211011_160539_351-scaled.jpg) no-repeat bottom left;
   background-size: 100% 100%;
   background-color: transparent;
   padding-top: 100px;
@@ -3293,8 +3317,8 @@ label {
   background-size: auto;
 }
 .banner-hero.banner-breadcrums {
-  background-image: url(../imgs/page/login/img-1.png);
-  min-height: 500px;
+  background-image: url(../imgs/page/about/1/IMG_20211011_160539_351-scaled.jpg);
+  min-height: 400px;
   text-align: center;
   position: relative;
   padding: 100px 0;
@@ -6133,7 +6157,7 @@ label {
   position: relative;
   padding: 0px 0px 40px 80px;
   margin-bottom: 40px;
-  border-bottom: 2px solid #E4E7EC;
+  border-bottom: 2px solid #fad5c2;
 }
 .list-icons .item-icon.none-bd {
   border-bottom: 0px;
@@ -7018,6 +7042,7 @@ label {
   height: 50px;
   overflow: hidden;
 }
+
 
 .text-inter-lg {
   font-family: "Chivo", sans-serif;
@@ -9159,3 +9184,38 @@ input.qty-val {
   }
 }
 /*# sourceMappingURL=style.css.map */
+
+
+
+
+
+/* style additionnel about */
+
+.soustitleabout{
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.titleabout{
+  font-family: "Chivo", sans-serif;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 45px;
+  letter-spacing: -1%;
+  color: #cf171e;
+}
+
+.sectiondecouverte{
+  background: #fad5c2;
+}
+
+.textesec1about, 
+.descriptionservice{
+  text-align: justify;
+}
+
+/* .descriptionservice{
+  text-align: justify;
+} */

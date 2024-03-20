@@ -12,10 +12,10 @@ class PagesController extends Controller
     public function contact(){
         return view('pages.contact');
     }
-    public function teams(){
+    public function equipe(){
         return view('pages.teams');
     }
-    public function about(){
+    public function apropos(){
         return view('pages.about');
     }
     public function formations(){

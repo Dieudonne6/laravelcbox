@@ -9,52 +9,52 @@
           <h1 class="text-display-3 mt-30">
             Propulsez <span  class="color-green-900">vos activités</span> avec nos offres</h1>
           <p class="text-body-lead-large color-gray-500 mt-40 pr-40">Vous êtes une startup, une Entreprise, nous vous offrons des services de qualités, et adaptés à vos besoins.</p>
-          <div class="mt-40"><a class="btn btn-black icon-arrow-right-white" href="page-service-1.html">Contactez-nous</a><a class="btn btn-link icon-arrow-right color-gray-900 text-heading-6" href="page-about-1.html">En savoir plus</a></div>
+          <div class="mt-40">
+            <a class="btn btn-black icon-arrow-right-white" href="{{url('/contact')}}">Contactez-nous</a>
+            <a class="btn btn-link icon-arrow-right color-gray-900 text-heading-6" href="{{url('/about')}}">En savoir plus</a>
+          </div>
           <div class="mt-50">
             <div class="row">
               <div class="col-lg-3 col-sm-4 col-4">
-                <h3 class="text-heading-4 color-gray-900 mb-15">+<span class="count">38</span>k</h3>
-                <p class="text-body-text-md color-gray-500">Happy Clients</p>
+                <h3 class="text-heading-4 color-gray-900 mb-15">+<span class="count">4</span></h3>
+                <p class="text-body-text-md color-gray-500"> ans d'activités</p>
               </div>
               <div class="col-lg-3 col-sm-4 col-4">
-                <h3 class="text-heading-4 color-gray-900 mb-15">+<span class="count">45</span>k</h3>
-                <p class="text-body-text-md color-gray-500">Project Done</p>
+                <h3 class="text-heading-4 color-gray-900 mb-15">+<span class="count">85</span></h3>
+                <p class="text-body-text-md color-gray-500">Projects</p>
               </div>
               <div class="col-lg-3 col-sm-4 col-4">
-                <h3 class="text-heading-4 color-gray-900 mb-15"> <span class="count">100</span>%</h3>
-                <p class="text-body-text-md color-gray-500">Clients Satisfaire</p>
+                <h3 class="text-heading-4 color-gray-900 mb-15">+ <span class="count">100</span></h3>
+                <p class="text-body-text-md color-gray-500">Clients</p>
               </div>
             </div>
           </div>
         </div>
-        <div class="col-lg-5 d-none d-lg-block">
+        <div class="col-lg-4 offset-1 d-none d-lg-block">
           <div class="banner-imgs">
-            <div class="block-1 shape-2"><img src="assets/imgs/page/homepage2/balance.png" alt="Agon"></div>
-            <div class="block-2 shape-3"><img src="assets/imgs/page/homepage2/payment.png" alt="Agon"></div><img class="img-responsive shape-1" alt="Agon" src="assets/imgs/page/homepage2/banner.png">
+            <div class="block-1 shape-2"><img src="assets/imgs/template/homecbox1.jpg" alt="C BOX Sarl"></div>
+            <img class="img-responsive shape-1 baner-header" alt="C BOX Sarl" src="assets/imgs/template/IMG_20211011_160442_284-min-scaled.jpg">
           </div>
         </div>
       </div>
     </div>
   </div>
 </section>
-<div class="section-box overflow-visible mt-70">
+<div class="section-box overflow-visible mt-70 partner">
   <div class="container">
     <div class="row justify-content-md-center">
-      <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="Agon" src="assets/imgs/slider/logo/sample-logo-1.svg"></a></div>
-      <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="Agon" src="assets/imgs/slider/logo/sample-logo-2.svg"></a></div>
-      <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="Agon" src="assets/imgs/slider/logo/sample-logo-3.svg"></a></div>
-      <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="Agon" src="assets/imgs/slider/logo/sample-logo-4.svg"></a></div>
-      <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="Agon" src="assets/imgs/slider/logo/sample-logo-5.svg"></a></div>
-      <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="Agon" src="assets/imgs/slider/logo/sample-logo-6.svg"></a></div>
+      <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="C BOX Sarl" src="assets/imgs/template/ABERME.png"></a></div>
+      <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="C BOX Sarl" src="assets/imgs/template/BE.jpg"></a></div>
+      <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center"><a class="item-logo box-hover-shadow hover-up" href="#"><img alt="C BOX Sarl" src="assets/imgs/template/anssi.png"></a></div>
     </div>
   </div>
 </div>
 <section class="section-box">
   <div class="container mt-80">
     <div class="row">
-      <div class="col-lg-6 col-sm-12 mb-30"><span class="tag-1 bg-6 color-green-900">Built Exclusively For You</span>
-        <h3 class="text-heading-1 mt-30">From the big picture to every tiny detail, we got you covered.</h3>
-        <p class="text-body-lead-large color-gray-600 mt-30">Necessary to deliver white glove, fully managed campaigns that surpass industry benchmarks.Take your career to next level. Apply to our team and see what we can do together. You&rsquo;re good enough.</p>
+      <div class="col-lg-6 col-sm-12 mb-30"><span class="tag-1 bg-6 color-green-900">Votre partenaire digital de confiance</span>
+        <h3 class="text-heading-1 mt-30">Pourquoi nous choisir?</h3>
+        <p class="text-body-lead-large color-gray-600 mt-30">En choisissant notre entreprise de technologie digitale, vous choisissez l'innovation, l'expertise, la qualité et un partenariat solide axé sur la satisfaction client. Nous sommes là pour vous accompagner dans votre parcours numérique et vous aider à atteindre vos objectifs avec succès.</p>
         <div class="line-bd-green mt-50"></div>
         <div class="row">
           <div class="col-lg-6 col-sm-6 col-12 mt-50">
@@ -77,8 +77,11 @@
         </div>
       </div>
       <div class="col-lg-6 col-sm-12 block-we-do">
-        <div class="inner-image"><img class="bdrd-16 img-responsive" src="assets/imgs/page/homepage2/img-built.png" alt="Agon">
-          <div class="block-image-bottom"><img class="bdrd-16 img-responsive" src="assets/imgs/page/homepage2/img-built-2.png" alt="Agon"></div>
+        <div class="inner-image">
+          <img class="bdrd-16 img-responsive" src="assets/imgs/template/IMG-20210126-WA0124.jpg" alt="C BOX Sarl">
+          <div class="block-image-bottom">
+            <img class="bdrd-16 img-responsive" src="assets/imgs/template/gif.gif" alt="C BOX Sarl">
+          </div>
         </div>
       </div>
     </div>
@@ -129,7 +132,7 @@
             </div>
             <div class="col-lg-6 col-md-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/page/homepage1/img-1.png" alt="Agon"></div>
+                <img class="img-responsive" src="assets/imgs/template/IMG_20211011_160539_351-scaled.jpg" alt="C BOX Sarl"></div>
             </div>
           </div>
         </div>
@@ -148,7 +151,7 @@
             </div>
             <div class="col-lg-6 col-sm-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/page/homepage1/img-1-2.jpg" alt="Agon"></div>
+                <img class="img-responsive" src="assets/imgs/template/learn-graphic-designs.jpg" alt="C BOX Sarl"></div>
             </div>
           </div>
         </div>
@@ -167,7 +170,7 @@
             </div>
             <div class="col-lg-6 col-sm-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/page/homepage1/img-1-3.jpg" alt="Agon"></div>
+                <img class="img-responsive" src="assets/imgs/template/learn-graphic-designs.jpg" alt="C BOX Sarl"></div>
             </div>
           </div>
         </div>
@@ -187,7 +190,7 @@
             </div>
             <div class="col-lg-6 col-sm-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/page/homepage1/img-1-4.jpg" alt="Agon"></div>
+                <img class="img-responsive" src="assets/imgs/template/IMG-20210202-WA0091-2.jpg" alt="C BOX Sarl"></div>
             </div>
           </div>
         </div>
@@ -206,7 +209,7 @@
             </div>
             <div class="col-lg-6 col-sm-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/page/homepage1/img-1-5.jpg" alt="Agon"></div>
+                <img class="img-responsive" src="assets/imgs/template/videosurveillance.jpeg" alt="C BOX Sarl"></div>
             </div>
           </div>
         </div>
@@ -225,7 +228,7 @@
             </div>
             <div class="col-lg-6 col-sm-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/page/homepage1/img-1-6.jpg" alt="Agon"></div>
+                <img class="img-responsive" src="assets/imgs/template/printeur.jpg" alt="C BOX Sarl"></div>
             </div>
           </div>
         </div>
@@ -242,7 +245,7 @@
             </div>
             <div class="col-lg-6 col-sm-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/page/homepage1/img-1-6.jpg" alt="Agon"></div>
+                <img class="img-responsive" src="assets/imgs/template/IMG-20210914-WA0029.jpg" alt="C BOX Sarl"></div>
             </div>
           </div>
         </div>
@@ -259,7 +262,7 @@
             </div>
             <div class="col-lg-6 col-sm-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/page/homepage1/img-1-6.jpg" alt="Agon"></div>
+                <img class="img-responsive" src="assets/imgs/template/IMG-20210914-WA0031.jpg" alt="C BOX Sarl"></div>
             </div>
           </div>
         </div>
@@ -276,7 +279,7 @@
             </div>
             <div class="col-lg-6 col-sm-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/page/homepage1/img-1-3.jpg" alt="Agon"></div>
+                <img class="img-responsive" src="assets/imgs/template/applicationweb.jpg" alt="C BOX Sarl"></div>
             </div>
           </div>
         </div>
@@ -295,7 +298,7 @@
             </div>
             <div class="col-lg-6 col-sm-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/page/homepage1/img-1-3.jpg" alt="Agon"></div>
+                <img class="img-responsive" src="assets/imgs/template/applicationweb.jpg" alt="C BOX Sarl"></div>
             </div>
           </div>
         </div>
@@ -312,7 +315,7 @@
             </div>
             <div class="col-lg-6 col-sm-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/page/homepage1/img-1-3.jpg" alt="Agon"></div>
+                <img class="img-responsive" src="assets/imgs/template/SEO-Website.png" alt="C BOX Sarl"></div>
             </div>
           </div>
         </div>
