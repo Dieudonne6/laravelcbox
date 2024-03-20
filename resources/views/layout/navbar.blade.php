@@ -8,7 +8,7 @@
             <ul class="main-menu">
               <li><a class="active" href="{{url('/')}}">Accueil</a>
               </li>
-              <li><a href="{{url('/about')}}">A propos</a>
+              <li><a href="{{url('/apropos')}}">A propos</a>
               </li>
               <li class="has-children"><a href="#">Services</a>
                 <ul class="sub-menu">
@@ -38,7 +38,7 @@
               <li><a href="{{url('/formations')}}">Formations</a>
                
               </li>
-              <li><a href="{{url('/teams')}}">Equipe</a>
+              <li><a href="{{url('/equipe')}}">Equipe</a>
       
               </li>
               <li><a href="{{url('/contact')}}">Contact</a>

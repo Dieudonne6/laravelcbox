@@ -3169,7 +3169,7 @@ label {
   z-index: 5;
 }
 .banner-hero.bg-about-1 {
-  background: url(../imgs/page/about/1/bg-about-1.png) no-repeat bottom left;
+  background: url(../imgs/page/about/1/IMG_20211011_160539_351-scaled.jpg) no-repeat bottom left;
   background-size: 100% 100%;
   background-color: transparent;
   padding-top: 100px;
@@ -3309,8 +3309,8 @@ label {
   background-size: auto;
 }
 .banner-hero.banner-breadcrums {
-  background-image: url(../imgs/page/login/img-1.png);
-  min-height: 500px;
+  background-image: url(../imgs/page/about/1/IMG_20211011_160539_351-scaled.jpg);
+  min-height: 400px;
   text-align: center;
   position: relative;
   padding: 100px 0;
