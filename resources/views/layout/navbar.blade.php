@@ -2,7 +2,7 @@
   <div class="container">
     <div class="main-header">
       <div class="header-left">
-        <div class="header-logo"><a class="d-flex" href="{{url('/')}}"><img alt="Agon" src="assets/imgs/template/cbox.png"></a></div>
+        <div class="header-logo mb-5"><a class="d-flex" href="{{url('/')}}"><img alt="Agon" src="assets/imgs/template/cbox.png"></a></div>
         <div class="header-nav">
           <nav class="nav-main-menu d-none d-xl-block">
             <ul class="main-menu">
@@ -14,14 +14,14 @@
                 <ul class="sub-menu">
                   <li><a href="{{url('/audit')}}">Audit, Conseil & Assistance Informatique</a></li>
                   <li><a href="page-signup.html">Développement Mobile</a></li>
-                  <li><a href="page-login.html">Administration Système & Réseau</a></li>
+                  <li><a href="{{url('/administrationReseaux')}}">Administration Système & Réseau</a></li>
                   <li><a href="page-reset.html">Maintenance Informatique</a></li>
                   <li>
                     <a href="404.html" class="sub-sub-menu">Développement Web</a>
                     <ul class="sub-menu">
-                      <li><a href="page-reset.html">Application Web</a></li>
-                      <li><a href="page-reset.html">Site Web</a></li>
-                      <li><a href="page-reset.html">SEO & Référencement</a></li>
+                      <li><a href="{{url('/applicationweb')}}">Application Web</a></li>
+                      <li><a href="{{url('/siteweb')}}">Site Web</a></li>
+                      <li><a href="{{url('/referencement')}}">SEO & Référencement</a></li>
                     </ul>
                   </li>
 
@@ -45,7 +45,7 @@
               </li>
             </ul>
           </nav>
-          <div class="burger-icon burger-icon-white"><span class="burger-icon-top"></span><span class="burger-icon-mid"></span><span class="burger-icon-bottom"></span></div>
+          <div class="burger-icon burger-icon-white "><span class="burger-icon-top"></span><span class="burger-icon-mid"></span><span class="burger-icon-bottom"></span></div>
         </div>
       </div>
       <div class="header-right">

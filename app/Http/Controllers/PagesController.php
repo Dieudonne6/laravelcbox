@@ -26,5 +26,17 @@ class PagesController extends Controller
     }
     public function design(){
         return view('pages.design-graphic');
+
+    public function reseaux(){
+        return view('pages.reseaux');
+    }
+    public function applicationweb(){
+        return view('pages.applicationweb');
+    }
+    public function siteweb(){
+        return view('pages.siteweb');
+    }
+    public function referencement(){
+        return view('pages.referencement');
     }
 }
