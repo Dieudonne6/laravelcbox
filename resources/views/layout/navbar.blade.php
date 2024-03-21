@@ -14,14 +14,14 @@
                 <ul class="sub-menu">
                   <li><a href="page-contact.html">Audit, Conseil & Assistance Informatique</a></li>
                   <li><a href="page-signup.html">Développement Mobile</a></li>
-                  <li><a href="page-login.html">Administration Système & Réseau</a></li>
+                  <li><a href="{{url('/administrationReseaux')}}">Administration Système & Réseau</a></li>
                   <li><a href="page-reset.html">Maintenance Informatique</a></li>
                   <li>
                     <a href="404.html" class="sub-sub-menu">Développement Web</a>
                     <ul class="sub-menu">
-                      <li><a href="page-reset.html">Application Web</a></li>
-                      <li><a href="page-reset.html">Site Web</a></li>
-                      <li><a href="page-reset.html">SEO & Référencement</a></li>
+                      <li><a href="{{url('/applicationweb')}}">Application Web</a></li>
+                      <li><a href="{{url('/siteweb')}}">Site Web</a></li>
+                      <li><a href="{{url('/referencement')}}">SEO & Référencement</a></li>
                     </ul>
                   </li>
 

@@ -10,3 +10,7 @@ Route::get('/contact', [PagesController::class, 'contact']);
 Route::get('/equipe', [PagesController::class, 'equipe']);
 Route::get('/apropos', [PagesController::class, 'apropos']);
 Route::get('/formations', [PagesController::class, 'formations']);
+Route::get('/administrationReseaux', [PagesController::class, 'reseaux']);
+Route::get('/applicationweb', [PagesController::class, 'applicationweb']);
+Route::get('/siteweb', [PagesController::class, 'siteweb']);
+Route::get('/referencement', [PagesController::class, 'referencement']);
