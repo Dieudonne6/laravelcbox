@@ -21,4 +21,10 @@ class PagesController extends Controller
     public function formations(){
         return view('pages.formations');
     }
+    public function audit(){
+        return view('pages.audit');
+    }
+    public function design(){
+        return view('pages.design-graphic');
+    }
 }
