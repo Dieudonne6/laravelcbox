@@ -118,7 +118,7 @@
                 <div class="col-lg-6 col-sm-12 block-img-we-do"><img class="bdrd-16 img-responsive"
                         src="assets/imgs/page/about/3/seo.png" alt="reseaux"></div>
                 <div class="col-lg-6 col-sm-12 block-we-do">
-                    <h3 class="text-heading-4 mt-30">C BOX C BOX L’ AGENCE A VOTRE SERVICE</h3>
+                    <h3 class="text-heading-4 mt-30">C BOX L’ AGENCE A VOTRE SERVICE</h3>
                     <p class="soustitlesiteweb color-gray-200 mt-10" style="text-align: justify">Notre agence est
                         spécialisée dans le référencement, qu'il soit gratuit ou payant. Nous nous engageons à améliorer vos
                         performances en ligne en nous basant sur des objectifs définis ensemble, sur mesure. Grâce à notre
