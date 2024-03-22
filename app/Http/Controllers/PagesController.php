@@ -26,7 +26,7 @@ class PagesController extends Controller
     }
     public function design(){
         return view('pages.design-graphic');
-
+    }
     public function reseaux(){
         return view('pages.reseaux');
     }
@@ -40,3 +40,4 @@ class PagesController extends Controller
         return view('pages.referencement');
     }
 }
+
