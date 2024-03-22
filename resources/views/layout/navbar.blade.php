@@ -25,7 +25,7 @@
                     </ul>
                   </li>
 
-                  <li><a href="{{url('/design-graphic')}}">Design & Graphisme</a></li>
+                  <li><a href="{{url('/designgraphic')}}">Design & Graphisme</a></li>
 
                   <li><a href="404.html">Vidéosurveillance</a></li>
                   <li><a href="404.html">Contrôle d’Accès & de Présence</a></li>
