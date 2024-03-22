@@ -12,10 +12,10 @@
               </li>
               <li class="has-children"><a href="#">Services</a>
                 <ul class="sub-menu">
-                  <li><a href="page-contact.html">Audit, Conseil & Assistance Informatique</a></li>
+                  <li><a href="{{url('/audit')}}">Audit, Conseil & Assistance Informatique</a></li>
                   <li><a href="{{url('/developmobile')}}">Développement Mobile</a></li>
-                  <li><a href="page-login.html">Administration Système & Réseau</a></li>
-                  <li><a href="page-reset.html">Maintenance Informatique</a></li>
+                  <li><a href="{{url('/administrationReseaux')}}">Administration Système & Réseau</a></li>
+                  <li><a href="{{url('/mtninformatique')}}">Maintenance Informatique</a></li>
                   <li>
                     <a href="404.html" class="sub-sub-menu">Développement Web</a>
                     <ul class="sub-menu">
@@ -28,8 +28,8 @@
                   <li><a href="{{url('/designgraphic')}}">Design & Graphisme</a></li>
 
                   <li><a href="{{url('/energierenouvelable')}}">Energie Renouvelable</a></li>
-                  <li><a href="404.html">Vidéosurveillance</a></li>
-                  <li><a href="404.html">Contrôle d’Accès & de Présence</a></li>
+                  <li><a href="{{url('/videosurveillance')}}">Vidéosurveillance</a></li>
+                  <li><a href="{{url('/controldaccespresence')}}">Contrôle d’Accès & de Présence</a></li>
                   <li><a href="{{url('/commerce')}}">Commerce</a></li>
                 </ul>
               </li>
