@@ -9197,11 +9197,20 @@ input.qty-val {
   font-size: 16px;
   line-height: 25px;
 }
+
 .soustitleabout{
   font-family: "Noto Sans", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 25px;
+}
+
+.soustitlereseaux{
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 25px;
+  margin: auto;
 }
 
 .titleabout{

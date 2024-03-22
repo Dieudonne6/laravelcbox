@@ -68,7 +68,7 @@
       <div class="col-lg-3 col-md-6 col-sm-6">
         <div class="card-grid-style-5 hover-up">
           <div class="grid-5-img mb-15"><img src="assets/imgs/page/about/1/team-7.png" alt="Agon"></div><span class="text-body-text-md color-gray-500">Developpeur</span>
-          <h3 class="text-heading-5 mb-5 mt-5">Theresa Webb</h3>
+          <h3 class="text-heading-5 mb-5 mt-5">Pascaline</h3>
           <div class="social-bottom"><a class="icon-socials icon-facebook" href="#"></a><a class="icon-socials icon-twitter" href="#"></a><a class="icon-socials icon-instagram" href="#"></a><a class="icon-socials icon-linkedin" href="#"></a></div>
         </div>
       </div>
@@ -76,7 +76,7 @@
       <div class="col-lg-3 col-md-6 col-sm-6">
         <div class="card-grid-style-5 hover-up">
           <div class="grid-5-img mb-15"><img src="assets/imgs/page/about/1/team-8.png" alt="Agon"></div><span class="text-body-text-md color-gray-500">Developpeur</span>
-          <h3 class="text-heading-5 mb-5 mt-5">Theresa Webb</h3>
+          <h3 class="text-heading-5 mb-5 mt-5">Franck</h3>
           <div class="social-bottom"><a class="icon-socials icon-facebook" href="#"></a><a class="icon-socials icon-twitter" href="#"></a><a class="icon-socials icon-instagram" href="#"></a><a class="icon-socials icon-linkedin" href="#"></a></div>
         </div>
       </div>

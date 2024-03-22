@@ -82,11 +82,11 @@
     <section class="section-box bg-1">
         <div class="container mt-120">
             <div class="row">
-                <div class="col-lg-6 col-sm-12 block-img-we-do"><img class="bdrd-16 img-responsive"
-                        src="assets/imgs/page/about/3/imagereseaux3.jpg" alt="reseaux"></div>
+                <div class="col-lg-6 col-sm-12 block-img-we-do"><img class="bdrd-16 "
+                        src="assets/imgs/page/about/3/imagereseaux3.jpg" alt="reseaux" style="height: 80%; width:90%; margin-left:10px"></div>
                 <div class="col-lg-6 col-sm-12 block-we-do">
                     <h3 class="text-heading-4 mt-30">L’ADMINISTRATION SYSTÈME ET RÉSEAU ASSURE VOTRE SÉCURITÉ</h3>
-                    <p class="soustitleabout color-gray-200 mt-30" style="text-align: justify">La société C BOX assure les
+                    <p class="soustitlereseaux color-gray-200 mt-30" style="text-align: justify">La société C BOX assure les
                         interventions de maintenance du système informatique pour garantir le bon fonctionnement et
                         l'accessibilité de l'ensemble du réseau à vos salariés. En plus des postes de travail, nous prenons
                         en charge l'installation et la configuration des imprimantes, serveurs, modems, pare-feu, proxy, VPN
@@ -113,7 +113,7 @@
 
                 <div class="col-lg-6 col-sm-12 block-we-do">
                     <h3 class="text-heading-4 mt-30">VOTRE SPÉCIALISTE DE L’ADMINISTRATION SYSTÈME ET RÉSEAU</h3>
-                    <p class="soustitleabout color-gray-200 mt-30" style="text-align: justify">
+                    <p class="soustitlereseaux color-gray-200 mt-30" style="text-align: justify">
                         En tant que prestataire en infogérance auprès des TPE et PME, CBOX est le spécialiste de
                         l’administration système et réseau depuis 5 ans. Nos experts en informatique ont pour mission de
                         vous accompagner dans la mise en place et la gestion de votre réseau en réalisant son installation
@@ -129,8 +129,8 @@
 
                 </div>
 
-                <div class="col-lg-6 col-sm-12 block-img-we-do"><img class="bdrd-16 img-responsive"
-                        src="assets/imgs/page/about/3/imagereseaux4.jpg" alt="reseaux">
+                <div class="col-lg-6 col-sm-12 block-img-we-do"><img class="bdrd-16 "
+                        src="assets/imgs/page/about/3/imagereseaux4.jpg" alt="reseaux" style="height: 80%; width:90%; margin-left:10px" >
                 </div>
             </div>
         </div>

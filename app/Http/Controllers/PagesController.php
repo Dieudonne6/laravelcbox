@@ -21,6 +21,19 @@ class PagesController extends Controller
     public function formations(){
         return view('pages.formations');
     }
+<<<<<<< HEAD
+    public function developmobile(){
+        return view('pages.developmobile');
+    }
+    public function mtninformatique(){
+        return view('pages.mtninformatique');
+    }
+    public function energierenouvelable(){
+        return view('pages.energierenouvelable');
+    }
+    public function commerce(){
+        return view('pages.commerce');
+=======
     public function audit(){
         return view('pages.audit');
     }
@@ -38,6 +51,7 @@ class PagesController extends Controller
     }
     public function referencement(){
         return view('pages.referencement');
+>>>>>>> 06f674861351a21cc010b40e181af28db476b8d0
     }
     public function videosurveillance(){
         return view('pages.videosurveillance');
