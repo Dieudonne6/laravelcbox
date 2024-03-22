@@ -32,7 +32,8 @@ class PagesController extends Controller
     }
     public function commerce(){
         return view('pages.commerce');
-    }    
+
+    }
     public function audit(){
         return view('pages.audit');
     }
@@ -50,6 +51,12 @@ class PagesController extends Controller
     }
     public function referencement(){
         return view('pages.referencement');
+    }
+    public function videosurveillance(){
+        return view('pages.videosurveillance');
+    }
+    public function controldaccespresence(){
+        return view('pages.controldaccespresence');
     }
 }
 
