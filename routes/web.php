@@ -23,4 +23,4 @@ Route::get('/applicationweb', [PagesController::class, 'applicationweb']);
 Route::get('/siteweb', [PagesController::class, 'siteweb']);
 Route::get('/referencement', [PagesController::class, 'referencement']);
 Route::get('/controldaccespresence', [PagesController::class, 'controldaccespresence']);
-Route::get('/cvideosurveillance', [PagesController::class, 'videosurveillance']);
+Route::get('/videosurveillance', [PagesController::class, 'videosurveillance']);
