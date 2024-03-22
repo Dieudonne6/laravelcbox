@@ -10,14 +10,14 @@
     </section>
 
     <section class="section-box bg-2">
-        <div class="container-fluid mt-120">
+        <div class="container-fluid mt-60">
             {{-- <div class="bg-2 bdrd-58 pattern-white none-pattern pb-60"> --}}
             <div class="bg-2 pattern-white none-pattern pb-60">
                 <div class="row">
                     <div class="col-lg-2 col-sm-1 col-12"></div>
                     <div class="col-lg-8 col-sm-10 col-12 text-center mt-70">
                         {{-- <h2 class="text-heading-1 color-gray-900">What We Offer</h2> --}}
-                        <p class="soustitleabout color-gray-600 mt-20">La société CBOX spécialisée en administration
+                        <p class="text-body-excerpt color-gray-600 mt-20">La société CBOX spécialisée en administration
                             système et réseau prend en charge la gestion, l’amélioration et l’optimisation de l’ensemble de
                             votre système informatique.</p>
                     </div>
@@ -80,13 +80,13 @@
     </section>
 
     <section class="section-box bg-1">
-        <div class="container mt-120">
+        <div class="container mt-80">
             <div class="row">
                 <div class="col-lg-6 col-sm-12 block-img-we-do"><img class="bdrd-16 "
                         src="assets/imgs/page/about/3/imagereseaux3.jpg" alt="reseaux" style="height: 80%; width:90%; margin-left:10px"></div>
                 <div class="col-lg-6 col-sm-12 block-we-do">
                     <h3 class="text-heading-4 mt-30">L’ADMINISTRATION SYSTÈME ET RÉSEAU ASSURE VOTRE SÉCURITÉ</h3>
-                    <p class="soustitlereseaux color-gray-200 mt-30" style="text-align: justify">La société C BOX assure les
+                    <p class="text-body-excerpt color-gray-200 mt-30" style="text-align: justify">La société C BOX assure les
                         interventions de maintenance du système informatique pour garantir le bon fonctionnement et
                         l'accessibilité de l'ensemble du réseau à vos salariés. En plus des postes de travail, nous prenons
                         en charge l'installation et la configuration des imprimantes, serveurs, modems, pare-feu, proxy, VPN
@@ -108,12 +108,12 @@
 
 
     <section class="section-box bg-2">
-        <div class="container mt-120">
+        <div class="container mt-80">
             <div class="row">
 
                 <div class="col-lg-6 col-sm-12 block-we-do">
                     <h3 class="text-heading-4 mt-30">VOTRE SPÉCIALISTE DE L’ADMINISTRATION SYSTÈME ET RÉSEAU</h3>
-                    <p class="soustitlereseaux color-gray-200 mt-30" style="text-align: justify">
+                    <p class="text-body-excerpt color-gray-200 mt-30" style="text-align: justify">
                         En tant que prestataire en infogérance auprès des TPE et PME, CBOX est le spécialiste de
                         l’administration système et réseau depuis 5 ans. Nos experts en informatique ont pour mission de
                         vous accompagner dans la mise en place et la gestion de votre réseau en réalisant son installation

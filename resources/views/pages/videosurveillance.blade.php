@@ -46,14 +46,21 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-          <div class="list-icons">
-            <div class="item-icon none-bd"><span class="icon-left"><img src="assets/imgs/page/services/1/icon-team.svg" alt="Agon"></span>
-              <p class="text-body-text color-gray-500 mt-15">Les informations d’alarme vous parviennent aussitôt</p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </section>
+  <div class="section-box mt-40">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 col-sm-12 mb-30"><img class="bdrd-16 img-responsive" src="assets/imgs/template/IMG_30092020_132238.jpg" alt="Agon"></div>
+        <div class="col-lg-6 col-sm-12 block-we-do">
+          <h3 class="text-heading-3 mt-20">Alerte Instantanée : La Vidéosurveillance Connectée</h3>
+          <p class="text-body-excerpt color-gray-600 mt-20"> Découvrez comment la vidéosurveillance moderne réagit instantanément à chaque mot prononcé. Notre article explore la convergence de la technologie de vidéosurveillance avec la reconnaissance vocale pour créer un système d'alerte innovant. En analysant les données audio en temps réel,
+             ce système détecte automatiquement les mots clés associés aux situations d'urgence, déclenchant des alarmes et permettant des interventions rapides.
+              Plongez dans cette nouvelle ère de sécurité où chaque mot compte.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
 @endsection
