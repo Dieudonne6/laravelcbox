@@ -73,21 +73,21 @@
     <div class="container mt-70">
       <div class="row">
         <div class="col-lg-4 col-sm-12">
-          <div class="card-grid-1 bg-5 bg-business hover-up">
+          <div class="card-grid-1 bg-5 bg-business hover-up" style="height: 100%;">
             <div class="grid-1-img"><img src="assets/imgs/page/homepage1/business-strategy.svg" alt="Agon"></div>
             <h3 class="text-heading-3 mt-20">Affiches</h3>
             <p class="text-body-excerpt mt-20">Création et développement d’affiches, flyers, brochures et dépliants, conçus pour être perçus et compris rapidement par le public, susciter une réaction de sympathie comme révéler l’esprit du temps.</p>
           </div>
         </div>
         <div class="col-lg-4 col-sm-12">
-          <div class="card-grid-1 bg-9 bg-local hover-up">
+          <div class="card-grid-1 bg-9 bg-local hover-up" style="height: 100%;">
             <div class="grid-1-img"><img src="assets/imgs/page/homepage1/local.svg" alt="Agon"></div>
             <h3 class="text-heading-3 mt-20">Logos</h3>
             <p class="text-body-excerpt mt-20">Création de logos en différentes variantes adaptées à tous supports, comprenant une iconographie ou un symbolisme visuel unique et universel, respectant les spécificités de la marque.</p>
           </div>
         </div>
         <div class="col-lg-4 col-sm-12">
-          <div class="card-grid-1 bg-2 bg-social hover-up">
+          <div class="card-grid-1 bg-2 bg-social hover-up" style="height: 100%;">
             <div class="grid-1-img"><img src="assets/imgs/page/homepage1/social.svg" alt="Agon"></div>
             <h3 class="text-heading-3 mt-20">Mockup</h3>
             <p class="text-body-excerpt mt-20">C'est une maquette de la future interface web ou mobile. C’est un outil de conception graphique, d’évaluation et de communication visuelle. Elle sert à améliorer l’ergonomie de l’interface et l’expérience utilisateur.</p>
