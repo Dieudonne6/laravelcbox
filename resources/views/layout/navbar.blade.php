@@ -12,7 +12,7 @@
               </li>
               <li class="has-children"><a href="#">Services</a>
                 <ul class="sub-menu">
-                  <li><a href="page-contact.html">Audit, Conseil & Assistance Informatique</a></li>
+                  <li><a href="{{url('/audit')}}">Audit, Conseil & Assistance Informatique</a></li>
                   <li><a href="page-signup.html">Développement Mobile</a></li>
                   <li><a href="{{url('/administrationReseaux')}}">Administration Système & Réseau</a></li>
                   <li><a href="page-reset.html">Maintenance Informatique</a></li>
@@ -25,9 +25,8 @@
                     </ul>
                   </li>
 
-                  <li><a href="404.html">Design & Graphisme</a></li>
+                  <li><a href="{{url('/design-graphic')}}">Design & Graphisme</a></li>
 
-                  <li><a href="404.html">Energie Renouvelable</a></li>
                   <li><a href="404.html">Vidéosurveillance</a></li>
                   <li><a href="404.html">Contrôle d’Accès & de Présence</a></li>
                   <li><a href="404.html">Commerce</a></li>
