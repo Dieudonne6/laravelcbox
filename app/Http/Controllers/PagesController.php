@@ -25,7 +25,7 @@ class PagesController extends Controller
         return view('pages.audit');
     }
     public function design(){
-        return view('pages.design-graphic');
+        return view('pages.designgraphic');
     }
     public function reseaux(){
         return view('pages.reseaux');
