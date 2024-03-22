@@ -27,8 +27,8 @@
 
                   <li><a href="{{url('/designgraphic')}}">Design & Graphisme</a></li>
 
-                  <li><a href="404.html">Vidéosurveillance</a></li>
-                  <li><a href="404.html">Contrôle d’Accès & de Présence</a></li>
+                  <li><a href="{{url('/videosurveillance')}}">Vidéosurveillance</a></li>
+                  <li><a href="{{url('/controldaccespresence')}}">Contrôle d’Accès & de Présence</a></li>
                   <li><a href="404.html">Commerce</a></li>
 
                   <li><a href="404.html">Energie Renouvelable</a></li>
