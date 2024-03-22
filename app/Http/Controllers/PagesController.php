@@ -21,6 +21,7 @@ class PagesController extends Controller
     public function formations(){
         return view('pages.formations');
     }
+<<<<<<< HEAD
     public function developmobile(){
         return view('pages.developmobile');
     }
@@ -32,5 +33,25 @@ class PagesController extends Controller
     }
     public function commerce(){
         return view('pages.commerce');
+=======
+    public function audit(){
+        return view('pages.audit');
+    }
+    public function design(){
+        return view('pages.designgraphic');
+    }
+    public function reseaux(){
+        return view('pages.reseaux');
+    }
+    public function applicationweb(){
+        return view('pages.applicationweb');
+    }
+    public function siteweb(){
+        return view('pages.siteweb');
+    }
+    public function referencement(){
+        return view('pages.referencement');
+>>>>>>> 06f674861351a21cc010b40e181af28db476b8d0
     }
 }
+

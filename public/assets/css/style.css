@@ -2362,7 +2362,7 @@ label {
   background: url(../imgs/template/icons/icon-selected.svg) no-repeat 0px 0px;
 }
 .block-pricing-2 .box-pricing-item.active .text-heading-5, .block-pricing-2 .box-pricing-item.active .text-heading-3, .block-pricing-2 .box-pricing-item.active li, .block-pricing-2 .box-pricing-item:hover .text-heading-5, .block-pricing-2 .box-pricing-item:hover .text-heading-3, .block-pricing-2 .box-pricing-item:hover li {
-  color: #ffffff !important;
+  color: black !important;
 }
 .block-pricing-2 .box-pricing-item.active .tag-round, .block-pricing-2 .box-pricing-item:hover .tag-round {
   background-color: #83C5BE;
@@ -6224,13 +6224,13 @@ label {
   color: #101828;
 }
 .block-pricing-2 .box-pricing-item:hover, .block-pricing-2 .box-pricing-item.active {
-  background-color: #006D77;
+  background-color: #fad5c2;
 }
 .block-pricing-2 .box-pricing-item:hover *, .block-pricing-2 .box-pricing-item.active * {
-  color: #ffffff;
+  color: black;
 }
 .block-pricing-2 .box-pricing-item:hover .text-body-small, .block-pricing-2 .box-pricing-item.active .text-body-small {
-  color: #F2F4F7 !important;
+  color: black !important;
 }
 .block-pricing-2 .box-pricing-item:hover .list-package-feature li, .block-pricing-2 .box-pricing-item.active .list-package-feature li {
   background: url(../imgs/template/icons/check-circle-pink.svg) no-repeat left center;
@@ -7039,7 +7039,7 @@ label {
   border-radius: 8px;
 }
 .list-steps li .block-step p.text-body-text {
-  height: 50px;
+  height: 77px;
   overflow: hidden;
 }
 
@@ -9191,11 +9191,26 @@ input.qty-val {
 
 /* style additionnel about */
 
+.soustitlesiteweb{
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 25px;
+}
+
 .soustitleabout{
   font-family: "Noto Sans", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 25px;
+}
+
+.soustitlereseaux{
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 25px;
+  margin: auto;
 }
 
 .titleabout{
