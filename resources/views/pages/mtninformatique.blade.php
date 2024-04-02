@@ -137,30 +137,5 @@
       </div>
     </div>
   </section>
-  <section class="section-box overflow-visible mb-100">
-    <div class="container mt-100">
-      <div class="row">
-        <div class="col-lg-10 mx-auto">
-          <div class="bg-6 box-newsletter position-relative">
-            <div class="row">
-              <div class="col-lg-5 col-md-7"><span class="text-body-capitalized color-gray-500 text-uppercase">newsletter</span>
-                <h4 class="text-heading-2 mb-10 mt-10">Subscribe our newsletter</h4>
-                <p class="text-body-text color-gray-500">By clicking the button, you are agreeing with our..</p><a href="page-terms.html">Term &amp; Conditions</a>
-                <div class="box-form-newsletter mt-30">
-                  <form class="form-newsletter">
-                    <input class="input-newsletter" type="text" value="" placeholder="Enter you mail ..">
-                    <button class="btn btn-send"></button>
-                  </form>
-                </div>
-              </div>
-              <div class="col-lg-7 col-md-5 mt-30 mt-lg-0 mt-md-30 mt-sm-30 position-relative text-end">
-                <div class="block-chart shape-1"><img src="assets/imgs/template/chart.png" alt="Agon"></div><img class="img-responsive img-newsletter" src="assets/imgs/template/img-newsletter.png" alt="Agon">
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
+  
 @endsection

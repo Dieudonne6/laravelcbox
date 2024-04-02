@@ -23,7 +23,7 @@
           <div class="category-grid-3 hover-up">
             <div class="category-img"><a href="#"><img src="assets/imgs/page/shop1/pc.svg" alt="agon"></a></div>
             <h4 class="text-heading-5 mb-5">Desktop PC</h4>
-            <p class="text-body-text color-gray-500">Vente d'ordinateur de diverses gammes</p>
+            <p class="text-body-text color-gray-500">Vente d'ordinateur de diverses gammes dernières générations</p>
           </div>
         </div>
         <div class="col-xl-4 col-lg-3 col-md-2 col-sm-6 col-12">
@@ -35,19 +35,13 @@
         </div>
         <div class="col-xl-4 col-lg-3 col-md-2 col-sm-6 col-12">
           <div class="category-grid-3 hover-up">
-            <div class="category-img"><a href="#"><img src="assets/imgs/page/shop1/security.svg" alt="agon"></a></div>
-            <h4 class="text-heading-5 mb-5">Antivirus</h4>
-            <p class="text-body-text color-gray-500"></p>
-          </div>
-        </div>
-        </div>
-        <div class="col-xl-4 col-lg-3 col-md-2 col-sm-6 col-12">
-          <div class="category-grid-3 hover-up">
             <div class="category-img"><a href="#"><img src="assets/imgs/page/shop1/scan.svg" alt="agon"></a></div>
             <h4 class="text-heading-5 mb-5">Scanneur</h4>
             <p class="text-body-text color-gray-500">Hautes performances , dernières générations et compatibles wifi</p>
           </div>
         </div>
+        </div>
+
 
         <div class="row"></div>
         <p class="text-body-lead-large color-gray-600 mt-20 text-center">Et bien plus encore ! Il suffit juste de nous contacter</p>
