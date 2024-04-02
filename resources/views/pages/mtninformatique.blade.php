@@ -13,7 +13,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-sm-12 col-12">
-          <h2 class="text-heading-2 color-gray-900 mb-50">CBOX vous permet de vous libérer des contraintes relatives à la gestion quotidienne du parc informatique et de maîtriser les coûts d’exploitation en vous offrant des services de maintenance informatique<br class="d-lg-block d-none"> </h2>
+          <h2 class="text-heading-4 color-gray-900 mb-50">CBOX vous permet de vous libérer des contraintes relatives à la gestion quotidienne du parc informatique et de maîtriser les coûts d’exploitation en vous offrant des services de maintenance informatique<br class="d-lg-block d-none"> </h2>
           <div class="text-start mb-25"><span class="tag-1 bg-6 color-green-900">Ce que nous proposons</span></div>
         </div>
       </div>
@@ -111,6 +111,7 @@
                   <div><a class="btn btn-black text-body-lead icon-arrow-right-white" href="#">Get Started</a></div>
                 </div>
               </div>
+
               <div class="col-xl-4 col-lg-6 col-md-6 wow animate__animated animate__fadeIn" data-wow-delay=".3s">
                 <div class="box-pricing-item hover-up">
                   <div class="box-info-price"><span class="text-heading-3 for-month display-month">Sur DEVIS</span><span class="text-heading-3 for-year">$1500</span></div>
