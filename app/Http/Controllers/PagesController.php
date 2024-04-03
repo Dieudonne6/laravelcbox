@@ -23,6 +23,19 @@ class PagesController extends Controller
     public function formations(){
         return view('pages.formations');
     }
+    // public function developmobile(){
+    //     return view('pages.developmobile');
+    // }
+    // public function mtninformatique(){
+    //     return view('pages.mtninformatique');
+    // }
+    // public function energierenouvelable(){
+    //     return view('pages.energierenouvelable');
+    // }
+    // public function commerce(){
+    //     return view('pages.commerce');
+
+    // }
     public function audit(){
         return view('pages.audit');
     }
@@ -68,6 +81,13 @@ class PagesController extends Controller
 
         // Envoyez l'e-mail
         Mail::to('dieudonneayena6@gmail.com')->send(new ContactMail($email, $entreprise, $message));
+    }
+    public function videosurveillance(){
+        return view('pages.videosurveillance');
+    }
+    public function controldaccespresence(){
+        return view('pages.controldaccespresence');
+
     }
 }
 
