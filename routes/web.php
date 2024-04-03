@@ -7,6 +7,7 @@ use App\Http\Controllers\PagesController;
 // });
 Route::get('/', [PagesController::class, 'home']);
 Route::get('/contact', [PagesController::class, 'contact']);
+Route::post('/sendcontact', [PagesController::class, 'sendcontact']);
 Route::get('/equipe', [PagesController::class, 'equipe']);
 Route::get('/apropos', [PagesController::class, 'apropos']);
 Route::get('/formations', [PagesController::class, 'formations']);

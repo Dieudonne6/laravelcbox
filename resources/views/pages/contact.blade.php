@@ -14,6 +14,11 @@
 
         <div class="container mb-20 mt-140">
             <div class="bdrd-58 box-gray-100 icon-wave">
+                @if(session('success'))
+                    <div class="alert alert-success">
+                        {{ session('success') }}
+                    </div>
+                @endif
                 <div class="row">
                     <div class="col-lg-12 mb-60"><span class="text-body-capitalized text-uppercase">Contactez-nous</span>
                         <h2 class="text-heading-3 color-gray-900 mt-10">Vous avez un projet en tête ?</h2>
@@ -31,25 +36,28 @@
                     </div>
 
                     <div class="col-lg-8">
+                        <form method="POST" action="{{url('sendcontact')}}">
+                            @csrf
                         <div class="row">
 
+                            
                             <div class="col-lg-6">
                                 <div class="form-group">
-                                    <input class="form-control" type="text" value=""
+                                    <input class="form-control" type="email" name="email"
                                         placeholder="Votre adresse e-mail">
                                 </div>
                             </div>
 
                             <div class="col-lg-6">
                               <div class="form-group">
-                                  <input class="form-control" type="text" value=""
+                                  <input class="form-control" type="text" name="entreprise"
                                       placeholder="Votre entreprise (Optionelle)">
                               </div>
                           </div>
 
                             <div class="col-lg-12">
                                 <div class="form-group">
-                                    <textarea class="form-control" placeholder="Saisissez votre message..."></textarea>
+                                    <textarea class="form-control" name="message" placeholder="Saisissez votre message..."></textarea>
                                 </div>
                             </div>
 
@@ -59,7 +67,10 @@
                                     message</button><br class="d-lg-none d-block">
                             </div>
 
+                            
+                            
                         </div>
+                    </form>
                     </div>
                 </div>
             </div>

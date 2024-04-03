@@ -2,7 +2,9 @@
 
 namespace App\Http\Controllers;
 
+use App\Mail\ContactMail;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Mail;
 
 class PagesController extends Controller
 {
@@ -38,6 +40,34 @@ class PagesController extends Controller
     }
     public function referencement(){
         return view('pages.referencement');
+    }
+
+    public function sendcontact(Request $request)
+    {
+        // Validez et traitez les données du formulaire ici...
+
+
+        // Appelez la fonction pour envoyer l'e-mail
+        $this->sendEmail($request);
+        
+
+        // Autres actions après l'envoi de l'e-mail...
+
+        return redirect()->back()->with('success', 'Votre message a été envoyé avec succès.');
+    }
+
+    private function sendEmail(Request $request)
+    {
+        // Récupérez les données du formulaire
+        $email = $request->input('email');
+        $entreprise = $request->input('entreprise');
+        $message = $request->input('message');
+
+        $contactMail = new ContactMail($email, $entreprise, $message);
+
+
+        // Envoyez l'e-mail
+        Mail::to('dieudonneayena6@gmail.com')->send(new ContactMail($email, $entreprise, $message));
     }
 }
 
