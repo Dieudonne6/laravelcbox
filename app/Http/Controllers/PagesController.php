@@ -23,9 +23,9 @@ class PagesController extends Controller
     public function formations(){
         return view('pages.formations');
     }
-    // public function developmobile(){
-    //     return view('pages.developmobile');
-    // }
+    public function developmobile(){
+        return view('pages.developmobile');
+    }
     public function mtninformatique(){
         return view('pages.mtninformatique');
     }
