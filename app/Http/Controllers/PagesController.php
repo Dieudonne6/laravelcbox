@@ -32,10 +32,10 @@ class PagesController extends Controller
     // public function energierenouvelable(){
     //     return view('pages.energierenouvelable');
     // }
-    // public function commerce(){
-    //     return view('pages.commerce');
+    public function commerce(){
+        return view('pages.commerce');
 
-    // }
+    }
     public function audit(){
         return view('pages.audit');
     }
