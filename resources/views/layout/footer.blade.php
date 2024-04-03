@@ -33,9 +33,9 @@
         <h4 class="text-heading-5">Nos services</h4>
         <ul class="menu-footer mt-20">
           <li><a href="{{url('/audit')}}">Audit, Conseil & Assistance Informatique</a></li>
-          <li><a href="{{url('/apropos')}}">Développement Mobile</a></li>
+          <li><a href="{{url('/developmobile')}}">Développement Mobile</a></li>
           <li><a href="{{url('/administrationReseaux')}}">Administration Système & Réseau</a></li>
-          <li><a href="{{url('/apropos')}}">Maintenance Informatique</a></li>
+          <li><a href="{{url('/mtninformatique')}}">Maintenance Informatique</a></li>
           <li><a href="{{url('/siteweb')}}">Développement Web</a></li>
 
         </ul>
@@ -46,10 +46,10 @@
         <ul class="menu-footer mt-20">
           <li><a href="{{url('/referencement')}}">SEO & Référencement</a></li>
           <li><a href="{{url('/designgraphic')}}">Design & Graphisme</a></li>
-          <li><a href="{{url('/audit')}}">Vidéosurveillance</a></li>
-          <li><a href="{{url('/audit')}}">Contrôle d’Accès & de Présence</a></li>
-          <li><a href="{{url('/audit')}}">Commerce</a></li>
-          <li><a href="{{url('/audit')}}">Energie Renouvelable</a></li>
+          <li><a href="{{url('/videosurveillance')}}">Vidéosurveillance</a></li>
+          <li><a href="{{url('/controldaccespresence')}}">Contrôle d’Accès & de Présence</a></li>
+          <li><a href="{{url('/commerce')}}">Commerce</a></li>
+          <li><a href="{{url('/energierenouvelable')}}">Energie Renouvelable</a></li>
         </ul>
       </div>
 
