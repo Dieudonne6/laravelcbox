@@ -33,7 +33,7 @@
         <div class="col-lg-4 offset-1 d-none d-lg-block">
           <div class="banner-imgs">
             <div class="block-1 shape-2"><img src="assets/imgs/template/homecbox1.jpg" alt="C BOX Sarl"></div>
-            <img class="img-responsive shape-1 baner-header" alt="C BOX Sarl" src="assets/imgs/template/IMG_20211011_160442_284-min-scaled.jpg">
+            <img class="img-responsive shape-1 baner-header" alt="C BOX Sarl" src="assets/imgs/template/IMG-20210914-WA0009-1.jpg">
           </div>
         </div>
       </div>
