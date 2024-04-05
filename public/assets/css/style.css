@@ -1477,6 +1477,10 @@ textarea:-ms-input-placeholder {
   opacity: 1;
 }
 
+.form-select {
+  height: 60px;
+}
+
 .form-control {
   background: #fff;
   border: 0px;

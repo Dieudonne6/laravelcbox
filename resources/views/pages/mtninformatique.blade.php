@@ -89,7 +89,7 @@
                     <li>Intervention sur site</li>
                     <li>Support technique 24/7</li>
                   </ul>
-                  <div><a class="btn btn-black text-body-lead icon-arrow-right-white" href="#">Get Started</a></div>
+                  <div><a class="btn btn-black text-body-lead icon-arrow-right-white" href="{{url('/contratmtn')}}">SOUSCIRE</a></div>
                 </div>
               </div>
 
@@ -108,7 +108,7 @@
                     <li>Intervention sur site</li>
                     <li>Support technique 24/7</li>
                   </ul>
-                  <div><a class="btn btn-black text-body-lead icon-arrow-right-white" href="#">Get Started</a></div>
+                  <div><a class="btn btn-black text-body-lead icon-arrow-right-white" href="{{url('/contratmtn')}}">SOUSCIRE</a></div>
                 </div>
               </div>
 
@@ -127,7 +127,7 @@
                     <li>Intervention sur site</li>
                     <li>Support technique 24/7</li>
                   </ul>
-                  <div><a class="btn btn-black text-body-lead icon-arrow-right-white" href="#">Get Started</a></div>
+                  <div><a class="btn btn-black text-body-lead icon-arrow-right-white" href="{{url('/contratmtn')}}">SOUSCIRE</a></div>
                 </div>
               </div>
               

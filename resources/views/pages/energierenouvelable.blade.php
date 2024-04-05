@@ -52,9 +52,7 @@
           <li>
             <h3 class="text-heading-5 mb-10">Quel est le potentiel énergétique des énergies marines ?</h3>
             <p class="text-body-text color-gray-500"> Les énergies marines, telles que l’énergie des vagues et des marées, ont un grand potentiel, mais leur exploitation est encore en développement.</p>
-          </li>
-          <li>
-           
+          </li>           
     </div>
   </div>
   <section class="section-box mt-70">

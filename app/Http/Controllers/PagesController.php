@@ -58,5 +58,8 @@ class PagesController extends Controller
     public function controldaccespresence(){
         return view('pages.controldaccespresence');
     }
+    public function contratmtn(){
+        return view('pages.contratmtn');
+    }
 }
 

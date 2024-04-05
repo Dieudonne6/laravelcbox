@@ -79,7 +79,7 @@
                     <div class="box-pricing-item hover-up">
                       <div >
                         <h4 class="text-heading-5 mb-15">Réflexion stratégique</h4>
-                        <p class="text-body-small color-gray-600">Lors de la phase de conception, nous travaillons avec vous afin de créer l'outil le plus efficient possible.</p>
+                        <p class="color-gray-600">Lors de la phase de conception, nous travaillons avec vous afin de créer l'outil le plus efficient possible.</p>
                       </div>
 
                     </div>
@@ -89,7 +89,7 @@
                     <div class="box-pricing-item hover-up">
                       <div >
                         <h4 class="text-heading-5 mb-15">Design & Esthétique </h4>
-                        <p class="text-body-small color-gray-600">Etant donné que les utilisateurs veulent des applications agréables à utiliser. Nous en faisons notre priorité</p>
+                        <p class="color-gray-600">Etant donné que les utilisateurs veulent des applications agréables à utiliser. Nous en faisons notre priorité</p>
                       </div>
 
                     </div>
@@ -99,7 +99,7 @@
                     <div class="box-pricing-item hover-up">
                       <div >
                         <h4 class="text-heading-5 mb-15">Conception réactive</h4>
-                        <p class="text-body-small color-gray-600">Toutes nos applications sont nativement optimisées pour tous types d'écrans : du smartphone à la TV. </p>
+                        <p class="color-gray-600">Toutes nos applications sont nativement optimisées pour tous types d'écrans : du smartphone à la TV. </p>
                       </div>
 
                     </div>
@@ -111,7 +111,7 @@
                       <div >
                         <h4 class="text-heading-5 mb-15">
                             Déploiement et maintenance </h4>
-                        <p class="text-body-small color-gray-600">Une fois le projet terminé, nous restons à vos côtés pour vous former à l'utilisation et assurer une transition efficace.</p>
+                        <p class="color-gray-600">Une fois le projet terminé, nous restons à vos côtés pour vous former à l'utilisation et assurer une transition efficace.</p>
                       </div>
 
                     </div>
