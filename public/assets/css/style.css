@@ -7047,7 +7047,9 @@ label {
   overflow: hidden;
 }
 
-
+.baner-header {
+  object-fit: cover;
+}
 .text-inter-lg {
   font-family: "Chivo", sans-serif;
   font-weight: 400;

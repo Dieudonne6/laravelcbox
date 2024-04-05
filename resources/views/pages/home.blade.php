@@ -11,7 +11,7 @@
           <p class="text-body-lead-large color-gray-500 mt-40 pr-40">Vous êtes une startup, une Entreprise, nous vous offrons des services de qualités, et adaptés à vos besoins.</p>
           <div class="mt-40">
             <a class="btn btn-black icon-arrow-right-white" href="{{url('/contact')}}">Contactez-nous</a>
-            <a class="btn btn-link icon-arrow-right color-gray-900 text-heading-6" href="{{url('/about')}}">En savoir plus</a>
+            <a class="btn btn-link icon-arrow-right color-gray-900 text-heading-6" href="{{url('/apropos')}}">En savoir plus</a>
           </div>
           <div class="mt-50">
             <div class="row">
@@ -33,7 +33,7 @@
         <div class="col-lg-4 offset-1 d-none d-lg-block">
           <div class="banner-imgs">
             <div class="block-1 shape-2"><img src="assets/imgs/template/homecbox1.jpg" alt="C BOX Sarl"></div>
-            <img class="img-responsive shape-1 baner-header" alt="C BOX Sarl" src="assets/imgs/template/IMG_20211011_160442_284-min-scaled.jpg">
+            <img class="img-responsive shape-1 baner-header" alt="C BOX Sarl" src="assets/imgs/template/IMG-20210914-WA0009-1.jpg">
           </div>
         </div>
       </div>
@@ -127,7 +127,7 @@
               <div class="box-optimized">
                 <h3 class="text-heading-2">Administration Réseau & Système</h3>
                 <p class="text-body-excerpt mt-30"> Nous assumons la responsabilité complète de la gestion, de l'amélioration et de l'optimisation de l'ensemble de votre système informatique, y compris l'administration réseau et système. Notre équipe qualifiée et expérimentée est là pour prendre en charge tous les aspects techniques, vous permettant ainsi de vous concentrer sur votre cœur de métier en toute tranquillité d'esprit.</p>
-                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="page-service-1.html">Lire plus</a></div>
+                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="{{url('/administrationReseaux')}}">Lire plus</a></div>
               </div>
             </div>
             <div class="col-lg-6 col-md-12">
@@ -146,7 +146,7 @@
               <div class="box-optimized">
                 <h3 class="text-heading-2">Maintenance informatique</h3>
                 <p class="text-body-excerpt mt-30"> Notre entreprise à pour but d’améliorer vos installations et de vous guider dès le début de vos utilisations. Nous nous positionnons en tant que prestataire ou intermédiaire entre le distributeur souhaité et vous.</p>
-                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="page-service-1.html">Lire plus</a></div>
+                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="{{url('/mtninformatique')}}">Lire plus</a></div>
               </div>
             </div>
             <div class="col-lg-6 col-sm-12">
@@ -165,7 +165,7 @@
               <div class="box-optimized">
                 <h3 class="text-heading-2">Design & Graphisme</h3>
                 <p class="text-body-excerpt mt-30"> Chez nous, nous mettons à votre disposition une équipe talentueuse spécialisée dans le design et le graphisme pour concrétiser vos projets créatifs. Que ce soit pour la conception d'affiches percutantes, de maquettes pour vos projets web ou de mockups pour vos prototypes d'interface utilisateur, nous sommes là pour vous offrir des solutions sur mesure.</p>
-                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="page-service-1.html">Lire plus</a></div>
+                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="{{url('/designgraphic')}}">Lire plus</a></div>
               </div>
             </div>
             <div class="col-lg-6 col-sm-12">
@@ -185,7 +185,7 @@
                 <h3 class="text-heading-2">Energie Renouvelable</h3>
                 <p class="text-body-excerpt mt-30">Nous sommes déterminés à vous accompagner dans votre transition vers les énergies renouvelables. Notre équipe d'experts spécialisés dans l'installation de sources d'énergie renouvelable est là pour vous guider à chaque étape du processus. Que vous envisagiez l'installation de panneaux solaires, d'éoliennes ou d'autres solutions vertes, nous mettons à votre disposition notre expertise pour concevoir et mettre en place un 
                   système adapté à vos besoins spécifiques.</p>
-                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="page-service-1.html">Lire plus</a></div>
+                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="{{url('/energierenouvelable')}}">Lire plus</a></div>
               </div>
             </div>
             <div class="col-lg-6 col-sm-12">
@@ -204,7 +204,7 @@
               <div class="box-optimized">
                 <h3 class="text-heading-2">Vidéosurveillance</h3>
                 <p class="text-body-excerpt mt-30">Nous sommes spécialisés dans l'installation professionnelle de systèmes de vidéosurveillance pour sécuriser vos biens et assurer la protection de votre espace. Que ce soit pour votre domicile, votre entreprise ou tout autre lieu, notre équipe expérimentée est là pour installer avec précision et fiabilité les appareils de vidéosurveillance nécessaires.</p>
-                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="page-service-1.html">Lire plus</a></div>
+                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="{{url('/videosurveillance')}}">Lire plus</a></div>
               </div>
             </div>
             <div class="col-lg-6 col-sm-12">
@@ -223,7 +223,7 @@
               <div class="box-optimized">
                 <h3 class="text-heading-2">Commerce</h3>
                 <p class="text-body-excerpt mt-30">Dans le domaine du commerce, nous nous engageons à vous accompagner dans le développement et la croissance de votre activité. Que vous soyez une petite entreprise locale ou une grande entreprise internationale, notre équipe expérimentée est là pour vous fournir l'assistance dont vous avez besoin pour prospérer sur le marché.</p>
-                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="page-service-1.html">Lire plus</a></div>
+                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="{{url('/commerce')}}">Lire plus</a></div>
               </div>
             </div>
             <div class="col-lg-6 col-sm-12">
@@ -240,7 +240,7 @@
               <div class="box-optimized">
                 <h3 class="text-heading-2">Contrôle d'accès & de présence</h3>
                 <p class="text-body-excerpt mt-30">Nous mettons à votre disposition notre expertise pour vous accompagner dans la mise en place efficace de solutions de contrôle d'accès et de présence. Que ce soit pour sécuriser vos locaux ou pour gérer efficacement la présence de votre personnel, notre équipe spécialisée est là pour vous fournir les meilleures solutions adaptées à vos besoins spécifiques.</p>
-                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="page-service-1.html">Lire plus</a></div>
+                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="{{url('/controldaccespresence')}}">Lire plus</a></div>
               </div>
             </div>
             <div class="col-lg-6 col-sm-12">
@@ -257,7 +257,7 @@
               <div class="box-optimized">
                 <h3 class="text-heading-2">Audit, Conseil & Assistance Informatique</h3>
                 <p class="text-body-excerpt mt-30">Nous offrons des services complets d'audit, de conseil et d'assistance informatique pour évaluer et améliorer la performance de votre système d'information ou de votre organisation. Notre équipe d'experts qualifiés mène une analyse approfondie pour identifier les forces et les faiblesses de votre infrastructure informatique, ainsi que les opportunités d'optimisation.</p>
-                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="page-service-1.html">Lire plus</a></div>
+                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="{{url('/audit')}}">Lire plus</a></div>
               </div>
             </div>
             <div class="col-lg-6 col-sm-12">
@@ -274,7 +274,7 @@
               <div class="box-optimized">
                 <h3 class="text-heading-2">Application web</h3>
                 <p class="text-body-excerpt mt-30"> Découvrez notre service de conception d'applications web sur mesure, conçues pour répondre précisément à vos besoins sans nécessiter d'installation sur les appareils de vos utilisateurs. Notre équipe spécialisée combine expertise technique et créativité pour créer une application web unique à votre image.</p>
-                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="page-service-1.html">Lire plus</a></div>
+                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="{{url('/applicationweb')}}">Lire plus</a></div>
               </div>
             </div>
             <div class="col-lg-6 col-sm-12">
@@ -293,7 +293,7 @@
                 <p class="text-body-excerpt mt-30">
                   Découvrez notre service de création de site web sur mesure, conçu pour répondre aux besoins spécifiques des professionnels, des PME, des indépendants et des libéraux. Que vous cherchiez à mettre en place un site vitrine pour présenter votre activité ou une plateforme e-commerce pour vendre vos produits en ligne, notre équipe est 
                   là pour vous accompagner à chaque étape du processus</p>
-                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="page-service-1.html">Lire plus</a></div>
+                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="{{url('/siteweb')}}">Lire plus</a></div>
               </div>
             </div>
             <div class="col-lg-6 col-sm-12">
@@ -310,7 +310,7 @@
               <div class="box-optimized">
                 <h3 class="text-heading-2">SEO & Référencement </h3>
                 <p class="text-body-excerpt mt-30"> Notre service de SEO et référencement est spécialement conçu pour propulser votre présence en ligne vers de nouveaux sommets. Le SEO, ou référencement naturel, consiste à optimiser votre visibilité sur les moteurs de recherche, assurant ainsi une meilleure position dans les résultats de recherche et une plus grande attraction de trafic qualifié vers votre site web ou application.</p>
-                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="page-service-1.html">Lire plus</a></div>
+                <div class="mt-40"><a class="btn btn-default btn-white icon-arrow-right" href="{{url('/referencement')}}">Lire plus</a></div>
               </div>
             </div>
             <div class="col-lg-6 col-sm-12">

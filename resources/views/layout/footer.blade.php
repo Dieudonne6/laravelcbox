@@ -8,7 +8,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-3 width-20 mb-30">
+      <div class="col-lg-3  mb-30">
         <h4 class="text-heading-5">Contact</h4>
         <div class="mt-20 text-body-text color-gray-600 mb-20">IIot 903 “F” St jean Ggèdiga district, Cotonou, Benin</div>
         <div class="mt-20 text-body-text color-gray-600">+22921603179 </div>
@@ -16,27 +16,44 @@
 
         <div class="text-body-text color-gray-600">contact@cbox.bj</div>
       </div>
-      <div class="col-lg-3 width-20 mb-30">
-        <h4 class="text-heading-5">A Propos</h4>
+      <div class="col-lg-3  mb-30">
+        <h4 class="text-heading-5">Lien utile</h4>
         <ul class="menu-footer mt-20">
-          <li><a href="{{url('/formation')}}">Formation</a></li>
-          <li><a href="{{url('/team')}}">Equipe</a></li>
-          <li><a href="{{url('/about')}}">A propos</a></li>
           <li><a href="{{url('/contact')}}">Contactez-nous</a></li>
+          <li><a href="{{url('/formations')}}">Formation</a></li>
+          <li><a href="{{url('/equipe')}}">Equipe</a></li>
+          <li><a href="{{url('/apropos')}}">A propos</a></li>
         </ul>
       </div>
-      <div class="col-lg-3 width-20 mb-30">
+
+
+
+
+      <div class="col-lg-3  mb-30">
         <h4 class="text-heading-5">Nos services</h4>
         <ul class="menu-footer mt-20">
-          <li><a href="blog-2.html">Our Blog</a></li>
-          <li><a href="page-pricing-1.html">Plans &amp; Pricing</a></li>
-          <li><a href="#">Knowledge Base</a></li>
-          <li><a href="#">Cookie Policy</a></li>
-          <li><a href="#">Office Center</a></li>
-          <li><a href="blog-1.html">News &amp; Events</a></li>
+          <li><a href="{{url('/audit')}}">Audit, Conseil & Assistance Informatique</a></li>
+          <li><a href="{{url('/developmobile')}}">Développement Mobile</a></li>
+          <li><a href="{{url('/administrationReseaux')}}">Administration Système & Réseau</a></li>
+          <li><a href="{{url('/mtninformatique')}}">Maintenance Informatique</a></li>
+          <li><a href="{{url('/siteweb')}}">Développement Web</a></li>
+
         </ul>
       </div>
-      <div class="col-lg-3 width-20 mb-30">
+ 
+      <div class="col-lg-3 ">
+        <h4 class="text-heading-5">Autre services</h4>
+        <ul class="menu-footer mt-20">
+          <li><a href="{{url('/referencement')}}">SEO & Référencement</a></li>
+          <li><a href="{{url('/designgraphic')}}">Design & Graphisme</a></li>
+          <li><a href="{{url('/videosurveillance')}}">Vidéosurveillance</a></li>
+          <li><a href="{{url('/controldaccespresence')}}">Contrôle d’Accès & de Présence</a></li>
+          <li><a href="{{url('/commerce')}}">Commerce</a></li>
+          <li><a href="{{url('/energierenouvelable')}}">Energie Renouvelable</a></li>
+        </ul>
+      </div>
+
+      {{-- <div class="col-lg-3 width-20 mb-30">
         <h4 class="text-heading-5">Support</h4>
         <ul class="menu-footer mt-20">
           <li><a href="page-faqs-1.html">FAQs</a></li>
@@ -46,17 +63,7 @@
           <li><a href="page-contact.html">Contact Us</a></li>
           <li><a href="#">Support Center</a></li>
         </ul>
-      </div>
-      <div class="col-lg-3 width-16">
-        <h4 class="text-heading-5">Useful links</h4>
-        <ul class="menu-footer mt-20">
-          <li><a href="#">Request an offer</a></li>
-          <li><a href="#">How it works</a></li>
-          <li><a href="page-pricing-2.html">Pricing</a></li>
-          <li><a href="#">Reviews</a></li>
-          <li><a href="#">Stories</a></li>
-        </ul>
-      </div>
+      </div> --}}
     </div>
     <div class="footer-bottom mt-20">
       <div class="row">

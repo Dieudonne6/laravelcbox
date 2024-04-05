@@ -57,39 +57,42 @@
 <div class="mobile-header-active mobile-header-wrapper-style perfect-scrollbar">
   <div class="mobile-header-wrapper-inner">
     <div class="mobile-header-top">
-      <div class="user-account"><img src="assets/imgs/template/ava_1.png" alt="Agon">
-        <div class="content">
-          <h6 class="user-name">Hi <span class="text-brand">Steven !</span></h6>
-          <p class="font-xs text-muted">You have 5 new messages</p>
-        </div>
-      </div>
+     
     </div>
     <div class="mobile-header-content-area">
       <div class="perfect-scroll">       
         <div class="mobile-menu-wrap mobile-header-border">
           <!-- mobile menu start-->
           <nav>
+            
             <ul class="mobile-menu font-heading">
-              <li><a class="active" href="index.html">Accueil</a>
+              <li><a class="active" href="{{url('/')}}">Accueil</a>
               </li>
-              <li><a href="page-about-1.html">A propos</a>
+              <li><a href="{{url('/apropos')}}">A propos</a>
               </li>
               <li class="has-children"><a href="#">Services</a>
                 <ul class="sub-menu">
-                  <li><a href="page-contact.html">Contact</a></li>
-                  <li><a href="page-signup.html">Sign Up</a></li>
-                  <li><a href="page-login.html">Log In</a></li>
-                  <li><a href="page-reset.html">Reset Password</a></li>
-                  <li><a href="404.html">Error 404</a></li>
+                  <li><a href="{{url('/audit')}}">Audit, Conseil & Assistance Informatique</a></li>
+                  <li><a href="{{url('/developmobile')}}">Développement Mobile</a></li>
+                  <li><a href="{{url('/administrationReseaux')}}">Administration Système & Réseau</a></li>
+                  <li><a href="{{url('/mtninformatique')}}">Maintenance Informatique</a></li>
+                  <li><a href="{{url('/applicationweb')}}">Application Web</a></li>
+                  <li><a href="{{url('/siteweb')}}">Site Web</a></li>
+                  <li><a href="{{url('/referencement')}}">SEO & Référencement</a></li>
+                  <li><a href="{{url('/designgraphic')}}">Design & Graphisme</a></li>
+                  <li><a href="{{url('/energierenouvelable')}}">Energie Renouvelable</a></li>
+                  <li><a href="{{url('/videosurveillance')}}">Vidéosurveillance</a></li>
+                  <li><a href="{{url('/controldaccespresence')}}">Contrôle d’Accès & de Présence</a></li>
+                  <li><a href="{{url('/commerce')}}">Commerce</a></li>
                 </ul>
               </li>
-              <li><a href="page-about-1.html">Formations</a>
+              <li><a href="{{url('/formations')}}">Formations</a>
                
               </li>
-              <li><a href="page-about-1.html">Equipe</a>
+              <li><a href="{{url('/equipe')}}">Equipe</a>
       
               </li>
-              <li><a href="page-about-1.html">Contact</a>
+              <li><a href="{{url('/contact')}}">Contact</a>
                
               </li>
             </ul>
