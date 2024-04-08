@@ -93,7 +93,7 @@
       <div class="col-lg-2 col-sm-1 col-12"></div>
       <div class="col-lg-8 col-sm-10 col-12 text-center mt-70">
         <h2 class="text-heading-1 color-gray-900">Nos offres de services</h2>
-        <p class="text-body-lead-large color-gray-600 mt-20">Nous offrons un service ininterrompu, disponible à tout moment pour répondre à vos besoins, quel que soit le jour ou l'heure.&mdash;  Nous sommes là pour vous...</p>
+        <p class="text-body-lead-large color-gray-600 mt-20">Nous offrons un service interrompu, disponible à tout moment pour répondre à vos besoins, quel que soit le jour ou l'heure.&mdash;  Nous sommes là pour vous...</p>
       </div>
       <div class="col-lg-2 col-sm-1 col-12"></div>
     </div>

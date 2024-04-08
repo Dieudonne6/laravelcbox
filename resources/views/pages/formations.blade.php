@@ -23,7 +23,7 @@
     <div class="row">
       <div class="col-lg-4 col-sm-12 pr-30">
         <div class="grid-4-img"><a><img src="assets/imgs/page/homepage1/wordpress800x600.jpg" alt="Agon" style="border-radius: 8px"></a></div>
-        <div class="card-grid-style-4  mt-8"><a class="text-heading-6" style="color: #cf171e;">conception de site wordpress</a>
+        <div class="card-grid-style-4  mt-8"><a class="text-heading-6" style="color: #cf171e;">Conception de site wordpress</a>
         </div>
       </div>
       <div class="col-lg-4 col-sm-12 pr-30">

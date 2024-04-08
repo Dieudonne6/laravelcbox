@@ -15,7 +15,7 @@
                 <div class="col-lg-2 col-sm-1 col-12"></div>
                 <div class="col-lg-8 col-sm-10 col-12 text-center mt-100">
                     <h2 class="titleabout color-gray-700">Développement d'application web</h2>
-                    <p class="soustitleabout color-gray-600 mt-20">Découvrez notre service de developpement<br> d'pplication web.
+                    <p class="soustitleabout color-gray-600 mt-20">Découvrez notre service de developpement<br> d'application web.
                        </p>
                 </div>
                 <div class="col-lg-2 col-sm-1 col-12"></div>
