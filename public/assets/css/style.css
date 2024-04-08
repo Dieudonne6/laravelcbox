@@ -6046,6 +6046,7 @@ label {
   max-height: 500px;
 }
 .panel-box img {
+  height: 100%;
   max-height: 500px;
 }
 

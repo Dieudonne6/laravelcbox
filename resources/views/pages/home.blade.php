@@ -140,7 +140,7 @@
       <!-- End tab-->
       <!-- Start Tab-->
       <div class="tab-pane fade" id="tab-2" role="tabpanel" aria-labelledby="tab-2">
-        <div class="bg-1 panel-box mt-50">
+        <div class="bg-2 panel-box mt-50">
           <div class="row">
             <div class="col-lg-6 col-sm-12">
               <div class="box-optimized">
@@ -159,7 +159,7 @@
       <!-- End tab-->
       <!-- Start Tab-->
       <div class="tab-pane fade" id="tab-3" role="tabpanel" aria-labelledby="tab-3">
-        <div class="bg-3 panel-box mt-50">
+        <div class="bg-2 panel-box mt-50">
           <div class="row">
             <div class="col-lg-6 col-sm-12">
               <div class="box-optimized">
@@ -178,7 +178,7 @@
       <!-- End tab-->
       <!-- Start Tab-->
       <div class="tab-pane fade" id="tab-4" role="tabpanel" aria-labelledby="tab-4">
-        <div class="bg-4 panel-box mt-50">
+        <div class="bg-2 panel-box mt-50">
           <div class="row">
             <div class="col-lg-6 col-sm-12">
               <div class="box-optimized">
@@ -198,7 +198,7 @@
       <!-- End tab-->
       <!-- Start Tab-->
       <div class="tab-pane fade" id="tab-5" role="tabpanel" aria-labelledby="tab-5">
-        <div class="bg-5 panel-box mt-50">
+        <div class="bg-2 panel-box mt-50">
           <div class="row">
             <div class="col-lg-6 col-sm-12">
               <div class="box-optimized">
@@ -217,7 +217,7 @@
       <!-- End tab-->
       <!-- Start Tab-->
       <div class="tab-pane fade" id="tab-6" role="tabpanel" aria-labelledby="tab-6">
-        <div class="bg-6 panel-box mt-50">
+        <div class="bg-2 panel-box mt-50">
           <div class="row">
             <div class="col-lg-6 col-sm-12">
               <div class="box-optimized">
@@ -234,7 +234,7 @@
         </div>
       </div>
       <div class="tab-pane fade" id="tab-7" role="tabpanel" aria-labelledby="tab-7">
-        <div class="bg-6 panel-box mt-50">
+        <div class="bg-2 panel-box mt-50">
           <div class="row">
             <div class="col-lg-6 col-sm-12">
               <div class="box-optimized">
@@ -251,7 +251,7 @@
         </div>
       </div>
       <div class="tab-pane fade" id="tab-8" role="tabpanel" aria-labelledby="tab-8">
-        <div class="bg-6 panel-box mt-50">
+        <div class="bg-2 panel-box mt-50">
           <div class="row">
             <div class="col-lg-6 col-sm-12">
               <div class="box-optimized">
@@ -268,7 +268,7 @@
         </div>
       </div>
       <div class="tab-pane fade" id="tab-9" role="tabpanel" aria-labelledby="tab-9">
-        <div class="bg-3 panel-box mt-50">
+        <div class="bg-2 panel-box mt-50">
           <div class="row">
             <div class="col-lg-6 col-sm-12">
               <div class="box-optimized">
@@ -285,7 +285,7 @@
         </div>
       </div>
       <div class="tab-pane fade" id="tab-10" role="tabpanel" aria-labelledby="tab-10">
-        <div class="bg-3 panel-box mt-50">
+        <div class="bg-2 panel-box mt-50">
           <div class="row">
             <div class="col-lg-6 col-sm-12">
               <div class="box-optimized">
@@ -304,7 +304,7 @@
         </div>
       </div>
       <div class="tab-pane fade" id="tab-11" role="tabpanel" aria-labelledby="tab-11">
-        <div class="bg-3 panel-box mt-50">
+        <div class="bg-2 panel-box mt-50">
           <div class="row">
             <div class="col-lg-6 col-sm-12">
               <div class="box-optimized">
