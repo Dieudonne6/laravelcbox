@@ -16,13 +16,13 @@
         <div class="container mt-20">
           <div class="row">
             <div class="col-lg-6 col-md-12 col-sm-12">
-              <div class="card-grid-style-2  box-gray-100 hover-up mb-20">
+              <div class="card-grid-style-2  box-gray hover-up mb-20">
                 <h5 class="text-heading-5 color-gray-900">Pourquoi réaliser un audit informatique ?</h5>
                 <p class="text-body-excerpt color-gray-600 mt-20 text-comment">L’audit informatique réalisé par un expert technique permet de faire un état des lieux des forces et faiblesses de votre système d’information ou de votre organisation.</p>
               </div>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12">
-              <div class="card-grid-style-2 box-gray-100 hover-up mb-20">
+              <div class="card-grid-style-2 box-gray hover-up mb-20">
                 <h5 class="text-heading-5 color-gray-900">Dans quel cas réaliser un audit ?</h5>
                 <p class="text-body-excerpt color-gray-600 mt-20 text-comment">Généralement la demande d’audit vient suite à un problème technique ou un dysfonctionnement dans un service informatique ou avec un prestataire. L’audit aura pour but d’analyser le fonctionnement du système d’information et d’identifier les risques.</p>
                 

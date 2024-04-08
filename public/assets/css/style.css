@@ -7065,7 +7065,9 @@ label {
 .block-pl {
   padding-left: 80px;
 }
-
+.box-gray {
+  background-color: #F2F4F7;
+}
 .box-gray-100 .icon-wave::before {
   top: -60px;
   right: -20px;
