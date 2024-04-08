@@ -64,8 +64,8 @@
                 </div>
                 <div class="col-lg-6 col-sm-12 col-12 block-pl">
                     {{-- <h2 class="text-heading-1 color-white mb-30 mt-20">Our game-changing approach to working together</h2> --}}
-                    <p class="textesec1about text-inter-lg"><strong>La société C BOX Sarl</strong> est une société à
-                        responsabilité limitée créé le 23
+                    <p class="textesec1about text-inter-lg"><strong>C BOX Sarl</strong> est une société à
+                        responsabilité limitée créé en
                         Juillet 2021 et officiellement enregistrée à Cotonou sous le numéro IFU : 3202113085279 en Avril
                         2022.
                         Son siège social est situé à Sikèkodji au lot 903″F » Quartier St Jean Gbèdiga, Cotonou-Bénin.
