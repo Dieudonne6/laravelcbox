@@ -151,7 +151,7 @@
             </div>
             <div class="col-lg-6 col-sm-12">
               <div class="block-video icon-pattern">
-                <img class="img-responsive" src="assets/imgs/template/learn-graphic-designs.jpg" alt="C BOX Sarl"></div>
+                <img class="img-responsive" src="assets/imgs/template/gros-plan-homme-reparant-puces-informatiques.jpg" alt="C BOX Sarl"></div>
             </div>
           </div>
         </div>
