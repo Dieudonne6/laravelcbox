@@ -16,7 +16,7 @@
                 <div class="col-lg-8 col-sm-10 col-12 text-center mt-100">
                     <h2 class="titleabout color-gray-700">Solutions web pour les professionnels</h2>
                     <p class="soustitleabout color-gray-600 mt-20">Notre agence vous propose un accompagnement complet<br>
-                        du début de votre projet jusqu'a sa fin.
+                        du début de votre projet jusqu'à sa fin.
                     </p>
                 </div>
                 <div class="col-lg-2 col-sm-1 col-12"></div>
@@ -34,7 +34,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="list-icons">
                         <div class="item-icon none-bd"><span class="icon-left"><img
-                                    src="assets/imgs/page/services/1/icon-support.svg" alt="Agon"></span>
+                                    src="assets/imgs/page/services/1/icon-support.svg" alt="C BOX"></span>
                             <h4 class="text-heading-6">Création de site vitrine</h4>
                             <p class="text-body-text color-gray-600 mt-15">La formule légère et responsive de présentation
                                 en une page de l’activité de la TPE, PME ou association.</p>
@@ -45,10 +45,10 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="list-icons">
                         <div class="item-icon none-bd"><span class="icon-left"><img
-                                    src="assets/imgs/page/services/1/icon-web.svg" alt="Agon"></span>
+                                    src="assets/imgs/page/services/1/icon-web.svg" alt="C BOX"></span>
                             <h4 class="text-heading-6">Création de sites catalogue</h4>
-                            <p class="text-body-text color-gray-600 mt-15">Les sites catalogue que nous créons permettent
-                                une présentation élaborée de l’entreprise, en quelques pages .</p>
+                            <p class="text-body-text color-gray-600 mt-15">Les sites cataloguent que nous créons permettent
+                                une présentation élaborée de l’entreprise, en quelques pages.</p>
                         </div>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="list-icons">
                         <div class="item-icon none-bd"><span class="icon-left"><img
-                                    src="assets/imgs/page/services/1/icon-business.svg" alt="Agon"></span>
+                                    src="assets/imgs/page/services/1/icon-business.svg" alt="C BOX"></span>
                             <h4 class="text-heading-6">Création de sites e-commerce</h4>
                             <p class="text-body-text color-gray-500 mt-15">Formule la plus complète, le site e-commerce
                                 permet à l’entreprise d’encaisser les paiements directement depuis le site internet.</p>
@@ -67,7 +67,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="list-icons">
                         <div class="item-icon none-bd"><span class="icon-left"><img
-                                    src="assets/imgs/page/services/1/icon-support.svg" alt="Agon"></span>
+                                    src="assets/imgs/page/services/1/icon-support.svg" alt="C BOX"></span>
                             <h4 class="text-heading-6">Référencement Adwords</h4>
                             <p class="text-body-text color-gray-600 mt-15">Le référencement payant Google Adwords permet aux
                                 professionnels d’acquérir très rapidement une visibilité en haut de page.</p>
@@ -78,7 +78,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="list-icons">
                         <div class="item-icon none-bd"><span class="icon-left"><img
-                                    src="assets/imgs/page/services/1/icon-web.svg" alt="Agon"></span>
+                                    src="assets/imgs/page/services/1/icon-web.svg" alt="C BOX"></span>
                             <h4 class="text-heading-6">Référencement Naturel</h4>
                             <p class="text-body-text color-gray-600 mt-15">Être visible sur les moteurs de recherche est une
                                 étape naturellement indispensable pour une communication web réussie.</p>
@@ -89,8 +89,8 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="list-icons">
                         <div class="item-icon none-bd"><span class="icon-left"><img
-                                    src="assets/imgs/page/services/1/icon-business.svg" alt="Agon"></span>
-                            <h4 class="text-heading-6"> Identité / Web design</h4>
+                                    src="assets/imgs/page/services/1/icon-business.svg" alt="C BOX"></span>
+                            <h4 class="text-heading-6"> Identité/Web design</h4>
                             <p class="text-body-text color-gray-500 mt-15">Nous créons l’identité visuelle de votre
                                 entreprise grâce dans un style épuré à fort impact qui nous est propre.</p>
                         </div>
@@ -109,7 +109,7 @@
                 <div class="col-lg-6 col-sm-12 block-img-we-do"><img class="bdrd-16 img-responsive"
                         src="assets/imgs/page/about/3/gif.gif" alt="reseaux"></div>
                 <div class="col-lg-6 col-sm-12 block-we-do">
-                    <h3 class="text-heading-4 mt-30">C BOX L’ AGENCE A VOTRE SERVICE</h3>
+                    <h3 class="text-heading-4 mt-30">C BOX L’AGENCE A VOTRE SERVICE</h3>
                     <p class="soustitlesiteweb color-gray-200 mt-10" style="text-align: justify">Nous sommes une équipe dédiée
                         à la communication digitale des professionnels de l’hexagone. Nous accompagnons chaque année
                         plusieurs dizaines de TPE, PME, associations et institutions à développer leur notoriété et leur

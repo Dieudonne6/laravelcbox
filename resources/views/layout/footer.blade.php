@@ -3,12 +3,12 @@
   <div class="container">
     <div class="footer-top">
       <div class="row">
-        <div class="col-md-4 col-sm-6 text-center text-md-start"><a href="{{url('/')}}"><img alt="Agon" src="assets/imgs/template/cbox.png"></a></div>
+        <div class="col-md-4 col-sm-6 text-center text-md-start"><a href="{{url('/')}}"><img alt="C BOX" src="assets/imgs/template/cbox.png"></a></div>
         <div class="col-md-8 col-sm-6 text-center text-md-end"><span class="color-gray-900 text-heading-6 mr-30 text-mb-sm-20">Prêt à commencer?</span><a class="btn btn-square" href="{{url('/contact')}}">Contactez-nous</a></div>
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-3  mb-30">
+      <div class="col-lg-3  mb-80">
         <h4 class="text-heading-5">Contact</h4>
         <div class="mt-20 text-body-text color-gray-600 mb-20">IIot 903 “F” St jean Ggèdiga district, Cotonou, Benin</div>
         <div class="mt-20 text-body-text color-gray-600">+22921603179 </div>
@@ -65,7 +65,7 @@
         </ul>
       </div> --}}
     </div>
-    <div class="footer-bottom mt-20">
+    {{-- <div class="footer-bottom mt-20">
       <div class="row">
         <div class="col-md-6">
           <span class="color-gray-400 text-body-lead">&copy; C box Sarl 2024</span>
@@ -75,6 +75,6 @@
           <div class="footer-social"><a class="icon-socials icon-facebook" href="https://facebook.com" target="_blank"></a><a class="icon-socials icon-twitter" href="https://twitter.com" target="_blank"></a><a class="icon-socials icon-instagram" href="https://www.instagram.com" target="_blank"></a><a class="icon-socials icon-linkedin" href="https://www.linkedin.com" target="_blank"></a></div>
         </div>
       </div>
-    </div>
+    </div> --}}
   </div>
 </footer>

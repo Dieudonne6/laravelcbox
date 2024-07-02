@@ -4,7 +4,7 @@
   <div class="banner-hero banner-breadcrums">
     <div class="container text-center">
       <h1 class="text-heading-2 color-gray-1000 mb-20">Formations</h1>
-      <p class="text-body-text color-gray-500">Nos differentes formation.</p>
+      <p class="text-body-text color-gray-500">Nos différentes formations.</p>
     </div>
   </div>
 </section>
@@ -13,8 +13,8 @@
     <div class="row">
       <div class="col-lg-2 col-sm-1 col-12"></div>
       <div class="col-lg-8 col-sm-10 col-12 text-center mt-100">
-          <h2 class="titleabout color-gray-700">Nos formation</h2>
-          <p class="soustitleabout color-gray-600 mt-20">Les differentes formations que nous proposons.</p>
+          <h2 class="titleabout color-gray-700">Nos formations</h2>
+          <p class="soustitleabout color-gray-600 mt-20">Les diverses formations que nous proposons.</p>
       </div>
       <div class="col-lg-2 col-sm-1 col-12"></div>
   </div>
@@ -22,17 +22,17 @@
   <div class="container mt-90">
     <div class="row">
       <div class="col-lg-4 col-sm-12 pr-30">
-        <div class="grid-4-img"><a><img src="assets/imgs/page/homepage1/wordpress800x600.jpg" alt="Agon" style="border-radius: 8px"></a></div>
+        <div class="grid-4-img"><a><img src="assets/imgs/page/homepage1/wordpress800x600.jpg" alt="C BOX" style="border-radius: 8px"></a></div>
         <div class="card-grid-style-4  mt-8"><a class="text-heading-6" style="color: #cf171e;">Conception de site wordpress</a>
         </div>
       </div>
       <div class="col-lg-4 col-sm-12 pr-30">
-        <div class="grid-4-img"><a><img src="assets/imgs/page/homepage1/laravel800x600.jpg" alt="Agon" style="border-radius: 8px"></a></div>
+        <div class="grid-4-img"><a><img src="assets/imgs/page/homepage1/laravel800x600.jpg" alt="C BOX" style="border-radius: 8px"></a></div>
         <div class="card-grid-style-4  mt-8"><a class="text-heading-6" style="color: #cf171e;">Formation en Laravel</a>
         </div>
       </div>
       <div class="col-lg-4 col-sm-12 pr-30">
-        <div class="grid-4-img"><a><img src="assets/imgs/page/homepage1/maintenance800x600.jpg" alt="Agon" style="border-radius: 8px"></a></div>
+        <div class="grid-4-img"><a><img src="assets/imgs/page/homepage1/maintenance800x600.jpg" alt="C BOX" style="border-radius: 8px"></a></div>
         <div class="card-grid-style-4  mt-8"><a class="text-heading-6" style="color: #cf171e;">
           Formation en électronique et maintenance
           </a>
@@ -58,21 +58,21 @@
             <div class="swiper-wrapper pb-70 pt-5">
               <div class="swiper-slide">
                 <div class="card-grid-style-2 hover-up">
-                  <div class="grid-2-img"><img src="assets/imgs/page/homepage1/market.svg" alt="Agon"></div>
+                  <div class="grid-2-img"><img src="assets/imgs/page/homepage1/market.svg" alt="C BOX"></div>
                   <h3 class="text-heading-5 mt-20">Market research</h3>
                   <p class="text-body-text color-gray-600 mt-20">One make creepeth, man bearing theira firmament.</p>
                 </div>
               </div>
               <div class="swiper-slide">
                 <div class="card-grid-style-2 hover-up">
-                  <div class="grid-2-img"><img src="assets/imgs/page/homepage1/consulting.svg" alt="Agon"></div>
+                  <div class="grid-2-img"><img src="assets/imgs/page/homepage1/consulting.svg" alt="C BOX"></div>
                   <h3 class="text-heading-5 mt-20">Strategic Consulting</h3>
                   <p class="text-body-text color-gray-600 mt-20">One make creepeth, man bearing theira firmament.</p>
                 </div>
               </div>
               <div class="swiper-slide">
                 <div class="card-grid-style-2 hover-up">
-                  <div class="grid-2-img"><img src="assets/imgs/page/homepage1/cognity.svg" alt="Agon"></div>
+                  <div class="grid-2-img"><img src="assets/imgs/page/homepage1/cognity.svg" alt="C BOX"></div>
                   <h3 class="text-heading-5 mt-20">Cognitive Solution</h3>
                   <p class="text-body-text color-gray-600 mt-20">One make creepeth, man bearing theira firmament.</p>
                 </div>

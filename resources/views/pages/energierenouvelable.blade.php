@@ -10,14 +10,14 @@
 </section>
 
 <section class="section-box mt-100">
-    <div class="container">
+    <div class="container text-center">
       <div class="row">
         <div class="col-lg-2 col-sm-1 col-12"></div>
         <div class="col-lg-8 col-sm-10 col-12 text-center">
-          <h2 class="text-heading-1 color-gray-900">Qu'est-ce qu'une énergie renouvelable</h2>
+          <h2 class="titleabout color-gray-700">Qu'est-ce qu'une énergie renouvelable</h2>
         </div>
         <p class="text-body-lead-large color-gray-600 mt-20">Les énergies renouvelables proviennent de 2 grandes sources naturelles : le Soleil (à l’origine du cycle de l’eau, des marées, du vent et de la croissance des végétaux) et la Terre (qui dégage de la chaleur).</p>
-        <p class="text-body-lead-large color-gray-600 mt-20">Surnommées « énergies propres » ou « énergies vertes », leur exploitation engendre très peu de déchets et d’émissions polluantes mais leur pouvoir énergétique est beaucoup plus faible que celui des énergies non renouvelables.</p>
+        <p class="text-body-lead-large color-gray-600 mt-20">Surnommée « énergies propres » ou « énergies vertes », leur exploitation engendre très peu de déchets et d’émissions polluantes mais leur pouvoir énergétique est beaucoup plus faible que celui des énergies non-renouvelables.</p>
         <p class="text-body-lead-large color-gray-600 mt-20">Nous sommes partenaires avec ABERME pour vous aider dans vos projets.</p>
         <div class="col-lg-2 col-sm-1 col-12"></div>
       </div>
@@ -37,10 +37,7 @@
             <h3 class="text-heading-5 mb-10">Combien faudrait-il construire d’éoliennes pour couvrir nos besoins énergétiques ?</h3>
             <p class="text-body-text color-gray-500">Cela dépend de la capacité de chaque éolienne et de la demande énergétique. En général, un grand nombre serait nécessaire pour une couverture complète.</p>
           </li>
-          <li>
-            <h3 class="text-heading-5 mb-10">Sur quel fleuve est construit le plus grand barrage du monde ?</h3>
-            <p class="text-body-text color-gray-500">Le barrage des Trois Gorges en Chine, situé sur le fleuve Yangtsé, est le plus grand au monde.</p>
-          </li>
+         
           <li>
             <h3 class="text-heading-5 mb-10">L’hydrogène est-il une énergie propre ?</h3>
             <p class="text-body-text color-gray-500">L’hydrogène peut être produit à partir d’énergies renouvelables, mais sa production actuelle est souvent liée à des émissions de carbone.</p>
@@ -52,7 +49,11 @@
           <li>
             <h3 class="text-heading-5 mb-10">Quel est le potentiel énergétique des énergies marines ?</h3>
             <p class="text-body-text color-gray-500"> Les énergies marines, telles que l’énergie des vagues et des marées, ont un grand potentiel, mais leur exploitation est encore en développement.</p>
-          </li>           
+          </li>  
+           <li>
+            <h3 class="text-heading-5 mb-10">Sur quel fleuve est construit le plus grand barrage du monde ?</h3>
+            <p class="text-body-text color-gray-500">Le barrage des Trois Gorges en Chine, situé sur le fleuve Yangtsé, est le plus grand au monde.</p>
+          </li>        
     </div>
   </div>
   <section class="section-box mt-70">

@@ -7,8 +7,8 @@
       <div class="row">
         <div class="col-lg-7 mt-50">
           <h1 class="text-display-3 mt-30">
-            Propulsez <span  class="color-green-900">vos activités</span> avec nos offres</h1>
-          <p class="text-body-lead-large color-gray-500 mt-40 pr-40">Vous êtes une startup, une Entreprise, nous vous offrons des services de qualités, et adaptés à vos besoins.</p>
+            Propulsez <span  class="color-green-900">vos activités</span> avec nos offres.</h1>
+          <p class="text-body-lead-large color-gray-500 mt-40 pr-40">Vous êtes une startup, une entreprise, nous vous offrons des services de qualité, et adaptés à vos besoins.</p>
           <div class="mt-40">
             <a class="btn btn-black icon-arrow-right-white" href="{{url('/contact')}}">Contactez-nous</a>
             <a class="btn btn-link icon-arrow-right color-gray-900 text-heading-6" href="{{url('/apropos')}}">En savoir plus</a>
@@ -93,7 +93,7 @@
       <div class="col-lg-2 col-sm-1 col-12"></div>
       <div class="col-lg-8 col-sm-10 col-12 text-center mt-70">
         <h2 class="text-heading-1 color-gray-900">Nos offres de services</h2>
-        <p class="text-body-lead-large color-gray-600 mt-20">Nous offrons un service interrompu, disponible à tout moment pour répondre à vos besoins, quel que soit le jour ou l'heure.&mdash;  Nous sommes là pour vous...</p>
+        <p class="text-body-lead-large color-gray-600 mt-20">Nous offrons un service complet, disponible à tout moment pour répondre à vos besoins, quel que soit le jour ou l'heure. Nous sommes là pour vous...</p>
       </div>
       <div class="col-lg-2 col-sm-1 col-12"></div>
     </div>

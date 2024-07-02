@@ -13,7 +13,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-sm-12 col-12">
-          <h2 class="text-heading-4 color-gray-900 mb-50">CBOX vous permet de vous libérer des contraintes relatives à la gestion quotidienne du parc informatique et de maîtriser les coûts d’exploitation en vous offrant des services de maintenance informatique<br class="d-lg-block d-none"> </h2>
+          <h2 class="text-heading-4 color-gray-900 mb-50 text-center">C BOX vous permet de vous libérer des contraintes relatives à la gestion quotidienne du parc informatique et de maîtriser les coûts d’exploitation en vous offrant des services de maintenance informatique.<br class="d-lg-block d-none"> </h2>
           <div class="text-start mb-25"><span class="tag-1 bg-6 color-green-900">Ce que nous proposons</span></div>
         </div>
       </div>
@@ -22,7 +22,7 @@
       <div class="row">
         <div class="col-lg-3 col-md-6 col-sm-6 col-12">
           <div class="list-icons">
-            <div class="item-icon none-bd"><span class="icon-left"><img src="assets/imgs/page/services/1/icon-support.svg" alt="Agon"></span>
+            <div class="item-icon none-bd"><span class="icon-left"><img src="assets/imgs/page/services/1/icon-support.svg" alt="C BOX"></span>
               <h4 class="text-heading-6">AUDIT DIAGNOSTIC OPTIMISATION CONSEIL</h4>
               <p class="text-body-text color-gray-600 mt-15">Nous nous engageons à fournir un travail original de la plus haute qualité et à donner le crédit là où il est dû.</p>
             </div>
@@ -30,25 +30,25 @@
         </div>
         <div class="col-lg-3 col-md-6 col-sm-6 col-12">
           <div class="list-icons">
-            <div class="item-icon none-bd"><span class="icon-left"><img src="assets/imgs/page/services/1/icon-web.svg" alt="Agon"></span>
+            <div class="item-icon none-bd"><span class="icon-left"><img src="assets/imgs/page/services/1/icon-web.svg" alt="C BOX"></span>
               <h4 class="text-heading-6">DÉPANNAGE HOTLINE INTERVENTION</h4>
-              <p class="text-body-text color-gray-600 mt-15">Nous nous engageons à maintenir la stabilité des systèmes, à résoudre les problèmes des utilisateurs et à garantir une expérience informatique fluide pour tous</p>
+              <p class="text-body-text color-gray-600 mt-15">Nous nous engageons à maintenir la stabilité des systèmes, à résoudre les problèmes des utilisateurs et à garantir une expérience informatique fluide pour tous.</p>
             </div>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 col-sm-6 col-12">
           <div class="list-icons">
-            <div class="item-icon none-bd"><span class="icon-left"><img src="assets/imgs/page/services/1/icon-business.svg" alt="Agon"></span>
-              <h4 class="text-heading-6">INSTALLATION FORMATION MATÉRIEL & SOFTAWARE</h4>
-              <p class="text-body-text color-gray-500 mt-15">Nous nous engageons de contribuer à l’efficacité opérationnelle, à la satisfaction des utilisateurs et à la stabilité des systèmes.</p>
+            <div class="item-icon none-bd"><span class="icon-left"><img src="assets/imgs/page/services/1/icon-business.svg" alt="C BOX"></span>
+              <h4 class="text-heading-6">INSTALLATION FORMATION MATÉRIELLE & SOFTWARE</h4>
+              <p class="text-body-text color-gray-500 mt-15">Nous nous engageons à contribuer à l’efficacité opérationnelle, à la satisfaction des utilisateurs et à la stabilité des systèmes.</p>
             </div>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 col-sm-6 col-12">
           <div class="list-icons">
-            <div class="item-icon none-bd"><span class="icon-left"><img src="assets/imgs/page/services/1/icon-share.svg" alt="Agon"></span>
+            <div class="item-icon none-bd"><span class="icon-left"><img src="assets/imgs/page/services/1/icon-share.svg" alt="C BOX"></span>
               <h4 class="text-heading-6">SUIVI EN MAINTENANCE PÉRENNISATION</h4>
-              <p class="text-body-text color-gray-500 mt-15">Avec un corpus d’œuvres en pleine croissance,nous veillerons à la pérennité des systèmes, à la satisfaction des utilisateurs et à la continuité des activités.</p>
+              <p class="text-body-text color-gray-500 mt-15">Avec un corpus d’œuvres en pleine croissance, nous veillerons à la pérennité des systèmes, à la satisfaction des utilisateurs et à la continuité des activités.</p>
             </div>
           </div>
         </div>

@@ -31,8 +31,8 @@
               <div class="card-grid-style-6 hover-up wow animate__animated animate__fadeIn" data-wow-delay=".1s">
                 <div class="grid-6-img"><img src="assets/imgs/page/homepage1/market.svg" alt="CBOX"></div>
                 <h1 class="text-heading-5 mt-20">Application E-Commerce</h1>
-                <p class="text-body-text color-gray-600 mt-20">Mettez en avant vos produits, services, et offres promotionnelles!
-                  Créez une application E-commerce, vos clients y trouveront toutes vos informations!</p>
+                <p class="text-body-text color-gray-600 mt-20">Mettez en avant vos produits, services, et offres promotionnelles !
+                  Créez une application E-commerce, vos clients y trouveront toutes vos informations !</p>
               </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-12">
@@ -62,14 +62,14 @@
                 <div class="card-grid-style-6 hover-up wow animate__animated animate__fadeIn" data-wow-delay=".3s">
                   <div class="grid-6-img"><img src="assets/imgs/page/homepage1/consulting.svg" alt="CBOX"></div>
                   <h3 class="text-heading-5 mt-20">Application Chat</h3>
-                  <p class="text-body-text color-gray-600 mt-20">Nous sommes expert dans la conception et création des applications mobiles et chat. Notre priorité est de vous satisfaire!</p>
+                  <p class="text-body-text color-gray-600 mt-20">Nous sommes experts dans la conception et création des applications mobiles et chat. Notre priorité est de vous satisfaire !</p>
                 </div>
               </div>
               <div class="col-lg-4 col-md-4 col-sm-6 col-12">
                 <div class="card-grid-style-6 hover-up wow animate__animated animate__fadeIn" data-wow-delay=".5s">
                   <div class="grid-6-img"><img src="assets/imgs/page/homepage1/cognity.svg" alt="CBOX"></div>
                   <h3 class="text-heading-5 mt-20">Service Client</h3>
-                  <p class="text-body-text color-gray-600 mt-20">Nous vous aidons à fidéliser vos clients, attirer des nouveaux internautes, et atteindre une clientèle plus jeune!</p>
+                  <p class="text-body-text color-gray-600 mt-20">Nous vous aidons à fidéliser vos clients, attirer des nouveaux internautes, et atteindre une clientèle plus jeune !</p>
                 </div>
               </div>
           </div>

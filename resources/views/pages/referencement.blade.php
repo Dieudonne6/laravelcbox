@@ -34,11 +34,11 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="list-icons">
                         <div class="item-icon none-bd"><span class="icon-left"><img
-                                    src="assets/imgs/page/services/1/icon-support.svg" alt="Agon"></span>
+                                    src="assets/imgs/page/services/1/icon-support.svg" alt="C BOX"></span>
                             <h4 class="text-heading-6"> SEO ou Référencement naturel</h4>
                             <p class="text-body-text color-gray-600 mt-15">Spécialisée en référencement naturel, notre
                                 agence vous accompagne pour améliorer la visibilité de votre site internet sur les moteurs
-                                de recherche avec pour objectif plus de trafic qualifié, pour plus de chiffre d’affaires.
+                                de recherche avec pour objectif plus de trafic qualifié, pour plus de chiffres d’affaires.
                             </p>
                         </div>
                     </div>
@@ -47,7 +47,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="list-icons">
                         <div class="item-icon none-bd"><span class="icon-left"><img
-                                    src="assets/imgs/page/services/1/icon-web.svg" alt="Agon"></span>
+                                    src="assets/imgs/page/services/1/icon-web.svg" alt="C BOX"></span>
                             <h4 class="text-heading-6">Google ADS</h4>
                             <p class="text-body-text color-gray-600 mt-15">SEA est un acronyme pour Search Engine
                                 Advertising qui signifie en anglais publicité sur les moteurs de recherche. Notre équipe
@@ -60,9 +60,9 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="list-icons">
                         <div class="item-icon none-bd"><span class="icon-left"><img
-                                    src="assets/imgs/page/services/1/icon-business.svg" alt="Agon"></span>
+                                    src="assets/imgs/page/services/1/icon-business.svg" alt="C BOX"></span>
                             <h4 class="text-heading-6">Référencement E-commerce</h4>
-                            <p class="text-body-text color-gray-500 mt-15">90% des internautes sont passés par un moteur de
+                            <p class="text-body-text color-gray-500 mt-15">90 % des internautes sont passés par un moteur de
                                 recherche avant de commander sur un site e-commerce. Faites appel aux experts de notre
                                 agence de référencement web pour dynamiser les ventes de votre boutique en ligne.</p>
                         </div>
@@ -72,7 +72,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="list-icons">
                         <div class="item-icon none-bd"><span class="icon-left"><img
-                                    src="assets/imgs/page/services/1/icon-support.svg" alt="Agon"></span>
+                                    src="assets/imgs/page/services/1/icon-support.svg" alt="C BOX"></span>
                             <h4 class="text-heading-6">Réalité Augmentée</h4>
                             <p class="text-body-text color-gray-600 mt-15">
                                 Il est indispensable dans le digital de mesurer l’impact d’une campagne pour arbitrer les
@@ -85,11 +85,11 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="list-icons">
                         <div class="item-icon none-bd"><span class="icon-left"><img
-                                    src="assets/imgs/page/services/1/icon-web.svg" alt="Agon"></span>
+                                    src="assets/imgs/page/services/1/icon-web.svg" alt="C BOX"></span>
                             <h4 class="text-heading-6">Social ADD</h4>
                             <p class="text-body-text color-gray-600 mt-15">Profitez de la puissance des réseaux sociaux pour
                                 booster votre communication digitale. Nos consultants jonglent avec Facebook, Instagram,
-                                Twitter et Linkedin comme Messi avec un ballon. </p>
+                                Twitter et LinkedIn comme Messi avec un ballon. </p>
                         </div>
                     </div>
                 </div>
@@ -97,7 +97,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="list-icons">
                         <div class="item-icon none-bd"><span class="icon-left"><img
-                                    src="assets/imgs/page/services/1/icon-business.svg" alt="Agon"></span>
+                                    src="assets/imgs/page/services/1/icon-business.svg" alt="C BOX"></span>
                             <h4 class="text-heading-6">Création Marketing de Contenu </h4>
                             <p class="text-body-text color-gray-500 mt-15"> De la création de blogs informatifs aux
                                 publications sur les réseaux sociaux et aux vidéos engageantes, nous sommes là pour donner
@@ -118,7 +118,7 @@
                 <div class="col-lg-6 col-sm-12 block-img-we-do"><img class="bdrd-16 img-responsive"
                         src="assets/imgs/page/about/3/seo.png" alt="reseaux"></div>
                 <div class="col-lg-6 col-sm-12 block-we-do">
-                    <h3 class="text-heading-4 mt-30">C BOX L’ AGENCE A VOTRE SERVICE</h3>
+                    <h3 class="text-heading-4 mt-30">C BOX L’AGENCE A VOTRE SERVICE</h3>
                     <p class="soustitlesiteweb color-gray-200 mt-10" style="text-align: justify">Notre agence est
                         spécialisée dans le référencement, qu'il soit gratuit ou payant. Nous nous engageons à améliorer vos
                         performances en ligne en nous basant sur des objectifs définis ensemble, sur mesure. Grâce à notre

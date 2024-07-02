@@ -2,7 +2,7 @@
   <div class="container">
     <div class="main-header">
       <div class="header-left">
-        <div class="header-logo mb-5"><a class="d-flex" href="{{url('/')}}"><img alt="Agon" src="assets/imgs/template/cbox.png"></a></div>
+        <div class="header-logo mb-5"><a class="d-flex" href="{{url('/')}}"><img alt="C BOX" src="assets/imgs/template/cbox.png"></a></div>
         <div class="header-nav">
           <nav class="nav-main-menu d-none d-xl-block">
             <ul class="main-menu">

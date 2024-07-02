@@ -40,7 +40,7 @@
               <div class="bg-2 box-newsletter position-relative">
                 <div class="row">
                   <div class="col-lg-5 col-md-7"><span class="text-body-capitalized color-gray-500 text-uppercase">newsletter</span>
-                    <h4 class="text-heading-2 mb-10 mt-10">Restez Connecté!</h4>
+                    <h4 class="text-heading-2 mb-10 mt-10">Restez Connecté !</h4>
                     <p class="text-body-text color-gray-500">Abonnez-vous à notre newsletter pour recevoir les dernières mises à jour, offres spéciales et actualités de l'entreprise directement dans votre boîte de réception. </p>
                     <div class="box-form-newsletter mt-30">
                       <form class="form-newsletter">
@@ -50,8 +50,8 @@
                     </div>
                   </div>
                   <div class="col-lg-7 col-md-5 mt-30 mt-lg-0 mt-md-30 mt-sm-30 position-relative text-end">
-                    <div class="block-chart shape-1"><img src="assets/imgs/template/messages-floating-laptop.jpg" alt="Agon"></div>
-                    <img class="img-responsive img-newsletter" src="assets/imgs/template/IMG-20210914-WA0015.jpg" alt="Agon">
+                    <div class="block-chart shape-1"><img src="assets/imgs/template/messages-floating-laptop.jpg" alt="C BOX"></div>
+                    <img class="img-responsive img-newsletter" src="assets/imgs/template/IMG-20210914-WA0015.jpg" alt="C BOX">
                   </div>
                 </div>
               </div>

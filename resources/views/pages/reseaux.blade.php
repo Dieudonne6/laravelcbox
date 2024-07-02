@@ -17,7 +17,7 @@
                     <div class="col-lg-2 col-sm-1 col-12"></div>
                     <div class="col-lg-8 col-sm-10 col-12 text-center mt-70">
                         {{-- <h2 class="text-heading-1 color-gray-900">What We Offer</h2> --}}
-                        <p class="text-body-excerpt color-gray-600 mt-20">La société CBOX spécialisée en administration
+                        <p class="text-body-excerpt color-gray-600 mt-20">La société C BOX spécialisée en administration
                             système et réseau prend en charge la gestion, l’amélioration et l’optimisation de l’ensemble de
                             votre système informatique.</p>
                     </div>
@@ -30,7 +30,7 @@
                                 <div class="swiper-slide">
                                     <div class="card-grid-style-2 hover-up">
                                         <div class="grid-2-img"><img src="assets/imgs/page/homepage1/market.svg"
-                                                alt="Agon"></div>
+                                                alt="C BOX"></div>
                                         <h3 class="text-heading-5 mt-20">
                                             L’installation de votre réseau, sa configuration et son câblage
                                         </h3>
@@ -41,7 +41,7 @@
                                 <div class="swiper-slide">
                                     <div class="card-grid-style-2 hover-up">
                                         <div class="grid-2-img"><img src="assets/imgs/page/homepage1/consulting.svg"
-                                                alt="Agon"></div>
+                                                alt="C BOX"></div>
                                         <h3 class="text-heading-5 mt-20">
                                             La sécurisation de l’accès aux données d’entreprise
                                         </h3>
@@ -52,7 +52,7 @@
                                 <div class="swiper-slide">
                                     <div class="card-grid-style-2 hover-up">
                                         <div class="grid-2-img"><img src="assets/imgs/page/homepage1/cognity.svg"
-                                                alt="Agon"></div>
+                                                alt="C BOX"></div>
                                         <h3 class="text-heading-5 mt-20">La configuration de votre système et de votre
                                             réseau</h3>
                                         <p class="text-body-text color-gray-600 mt-20">Optimisez votre système et votre
@@ -62,7 +62,7 @@
                                 <div class="swiper-slide">
                                     <div class="card-grid-style-2 hover-up">
                                         <div class="grid-2-img"><img src="assets/imgs/page/homepage1/consulting.svg"
-                                                alt="Agon"></div>
+                                                alt="C BOX"></div>
                                         <h3 class="text-heading-5 mt-20">L’installation des postes de travail dans votre
                                             entreprise</h3>
                                         <p class="text-body-text color-gray-600 mt-20">Facilitez l'installation de vos
@@ -114,15 +114,15 @@
                 <div class="col-lg-6 col-sm-12 block-we-do">
                     <h3 class="text-heading-4 mt-30">VOTRE SPÉCIALISTE DE L’ADMINISTRATION SYSTÈME ET RÉSEAU</h3>
                     <p class="text-body-excerpt color-gray-200 mt-30" style="text-align: justify">
-                        En tant que prestataire en infogérance auprès des TPE et PME, CBOX est le spécialiste de
+                        En tant que prestataire en infogérance auprès des TPE et PME, C BOX est le spécialiste de
                         l’administration système et réseau depuis 5 ans. Nos experts en informatique ont pour mission de
                         vous accompagner dans la mise en place et la gestion de votre réseau en réalisant son installation
                         complète et son amélioration continue en fonction de vos objectifs, de votre budget et de vos
-                        besoins. Grâce à CBOX, vous disposez d’un interlocuteur unique répondant dans les plus brefs délais
+                        besoins. Grâce à C BOX, vous disposez d’un interlocuteur unique répondant dans les plus brefs délais
                         à toutes vos demandes de création d’accès aux serveurs, de configuration d’adresse e-mail ou toute
                         autre opération d’administration système et réseau. Nous comprenons l'importance de maintenir la
                         disponibilité et la performance de votre infrastructure informatique, c'est pourquoi nous mettons
-                        tout en œuvre pour assurer une gestion proactive et efficace de vos systèmes. En choisissant CBOX,
+                        tout en œuvre pour assurer une gestion proactive et efficace de vos systèmes. En choisissant C BOX,
                         vous optez pour la tranquillité d'esprit en sachant que votre réseau est entre de bonnes mains.
                     </p>
                     {{-- <div class="line-bd-green mt-50"></div> --}}
