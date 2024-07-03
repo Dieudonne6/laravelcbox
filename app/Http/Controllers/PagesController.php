@@ -80,7 +80,7 @@ class PagesController extends Controller
 
 
         // Envoyez l'e-mail
-        Mail::to('dieudonneayena6@gmail.com')->send(new ContactMail($email, $entreprise, $message));
+        Mail::to('clogossou@cbox.bj')->send(new ContactMail($email, $entreprise, $message));
     }
     public function videosurveillance(){
         return view('pages.videosurveillance');
