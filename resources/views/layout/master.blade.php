@@ -11,7 +11,8 @@
     <meta name="description" content="Index page">
     <meta name="keywords" content="index, page">
     <meta name="author" content="">
-    <link rel="shortcut icon" type="image/x-icon" href="{{asset('assets/imgs/template/favicon.svg')}}">
+    <link rel="icon" type="image/png" href="{{asset('assets/imgs/favicon.png')}}">
+
     <link href="{{asset('assets/css/style.css')}}" rel="stylesheet">
     <title>@yield('title')</title>
   </head>
